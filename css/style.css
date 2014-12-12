@@ -270,6 +270,36 @@ a:focus{
 }
 
 /*************************
+**** =organizers
+*************************/
+
+.organizers {
+	background: #555555;
+	color: #ffffff;
+}
+
+.organizers h2 {
+	font-weight: bold;
+	padding-top: 95px;
+}
+
+.organizers .text {
+	width: 68%;
+	float: right;
+}
+
+.organizers img {
+	padding-top: 5px;
+	width: 15%; 
+	float: left;
+	max-width: 250px;
+	margin-left: 10%;
+}
+
+.orgainfo{
+	 min-height:200px;
+	}
+/*************************
 **** =our-sponsors
 *************************/
 
