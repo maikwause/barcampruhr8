@@ -156,7 +156,8 @@ a:focus{
 }
 
 .navbar .navbar-toggle .icon-bar {
-	background: #009ddc;
+    background: none repeat scroll 0 0 #009ddc;
+
 }
 
 #header h1 {
@@ -423,7 +424,7 @@ a:focus{
 }
 
 .our-sponsors .sponsors .sponsor a {
-	background-color: #00a3e8;
+	background-color: #FFF;
 	margin-bottom: 4px;
 	height: 236px;
 	display: block;
@@ -434,7 +435,8 @@ a:focus{
 }
 
 .our-sponsors .sponsors .sponsor a:hover {
-	background-color: rgba(0, 163, 232, 0.3);
+	/*background-color: rgba(0, 163, 232, 0.3); */
+	background-color: #FFF;
 	-webkit-box-shadow: inset 0 0 1px rgba(255, 255, 255, 0.33);
 	   -moz-box-shadow: inset 0 0 1px rgba(255, 255, 255, 0.33);
 	        box-shadow: inset 0 0 1px rgba(255, 255, 255, 0.33);

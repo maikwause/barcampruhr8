@@ -24,6 +24,26 @@
 <div id="container">	
 	<header id="header">
 		<div class="center">
+			<nav class="navbar navbar-fixed-top" role="navigation">
+				<div class="navbar-header">
+					<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
+						<span class="sr-only">Toggle navigation</span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+					</button>
+				</div>
+				<div class="collapse navbar-collapse center">
+			  	<ul class="nav navbar-nav">
+			  		<li><a href="#signup">Tickets</a></li>
+			  		<li><a href="#mailing">Newsletter</a></li>
+			  		<li><a href="#catagories">Was erwartet mich?</a></li>
+			  		<li><a href="#sponsors">Sponsoren</a></li>
+			  		<li><a href="#faq">F.A.Q.</a></li>
+			  		<li><a href="#organizers">Organisatoren</a></li>
+			  	</ul>
+			  </div>
+			</nav> 		
 			<img src="images/logo_small.png" alt="Barcamp Ruhr 8">
 			<h3><span>THINK GLOBAL - ACT LOCAL</span><br><span>UNPERFEKTHAUS ESSEN; 21./22. MÄRZ 2015<br>&nbsp; #bcruhr8 &nbsp;</span></h3>
 			<a href="#signup" class="btn btn-primary btn-red btn-red-small">Ticket kaufen</a>
@@ -36,7 +56,7 @@
 				<h2>WEITERE TICKETS IN VORBEREITUNG</h2>
 				<div style="width:100%; text-align:left;" ><iframe  src="//eventbrite.com/tickets-external?eid=14800626071&ref=etckt" frameborder="0" height="368" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe><div style="font-family:Helvetica, Arial; font-size:10px; padding:5px 0 5px; margin:2px; width:100%; text-align:left;" ><a style="color:#ddd; text-decoration:none;" target="_blank" href="http://www.eventbrite.com/r/etckt">Online event registration</a><span style="color:#ddd;"> for </span><a style="color:#ddd; text-decoration:none;" target="_blank" href="https://www.eventbrite.com/e/barcampruhr-8-tickets-14800626071?ref=etckt">barcamp.ruhr 8</a> <span style="color:#ddd;">powered by</span> <a style="color:#ddd; text-decoration:none;" target="_blank" href="http://www.eventbrite.com?ref=etckt">Eventbrite</a></div></div>
 
-				<h2><img src="images/mailico.png" alt=""><br>JETZT BEI DER MAILINGLISTE ANMELDEN</h2>
+				<h2 id="mailing"><img src="images/mailico.png" alt=""><br>JETZT BEI DER MAILINGLISTE ANMELDEN</h2>
 				<h4>Wenn Ihr Euch in die Emailliste eintragt, informieren wir Euch regelmäßig über den Stand der Dinge und natürlich sofort, sobald der Ticketverkauf beginnt!</h4>
 				
 				
@@ -65,7 +85,7 @@
 			</div>
 		</section>
 		
-		<section class="know-about-us">
+		<section class="know-about-us" id="catagories">
 			<div class="center clearfix">
 				<img src="images/idea-thought.png" alt="">
 				<div class="text">
@@ -79,6 +99,37 @@
 
 				</div>
 			</div>
+		</section>
+		<section class="our-sponsors" id="sponsors">
+			<div class="center">
+				<h2>UNSERE SPONSOREN</h2>
+				<p>Ein großes "Dankeschön" an unsere großartigen barcamp.ruhr 8 Sponsoren!</p>
+				<div class="row sponsors">
+					<div class="col-sm-4 sponsor">
+						<a href="http://www.dot.ruhr"><img src="images/sponsors/dot_ruhr.jpg" alt="Dot Ruhr"></a>
+					</div>
+					<div class="col-sm-4 sponsor become-sponsor">
+						<a href="mailto:mail@barcamp.ruhr?subject=Premium-Sponsoring"><span>WERDE PREMIUM-SPONSOR</span></a>
+					</div>
+					<div class="col-sm-4 sponsor become-sponsor">
+						<a href="mailto:mail@barcamp.ruhr?subject=Premium-Sponsoring"><span>WERDE PREMIUM-SPONSOR</span></a>
+					</div>
+					<div class="row sponsors">
+						<div class="col-sm-3 sponsor">
+							<a href="http://www.bbk.bund.de"><img src="images/sponsors/spo_BBK.jpg" alt="Bundesamt für Bevölkerungsschutz und Katastrophenhilfe"></a>
+						</div>
+						<div class="col-sm-3 sponsor">
+							<a href="https://www.erdfisch.de/"><img src="images/sponsors/erdfisch_logo.jpg" alt="Erdfisch"></a>
+						</div>
+						<div class="col-sm-3 sponsor">
+							<a href="http://www.agile.ruhr"><img src="images/sponsors/agile_ruhr.jpg" alt="Erdfisch"></a>
+						</div>
+						<div class="col-sm-3 sponsor become-sponsor">
+							<a href="mailto:mail@barcamp.ruhr?subject=Basis-Sponsoring"><span>WERDE BASIS-SPONSOR</span></a>
+						</div>
+					</div>
+				</div>
+			</div>	
 		</section>
 		<section class="faq">
 			<div class="center clearfix">
@@ -102,6 +153,14 @@
 						<dt><a data-toggle="collapse" data-parent="#faq" href="#f2">Warum ist die Teilnahme so günstig, Konferenzen kosten über 1000 Euro?</a></dt>
 						<dd id="f2" class="panel-collapse collapse">
 							Auch das ist Teil der Barcamp-Philosophie, das Barcamp soll für jeden zugänglich sein, unabhängig von den finanziellen Mitteln, der Austausch auf Augenhöhe steht im Vordergrund. Ziel ist, dass jeder Teilnehmer, auch wir Organisatoren, etwas lernt und mit nach Hause nimmt. Angefangen von Kontakten bis hin zu ganz konkreten Ideen.
+						</dd>
+						<dt><a data-toggle="collapse" data-parent="#faq" href="#f11">Ich kann doch nicht kommen, kann ich mein Ticket zurückgeben?</a></dt>
+						<dd id="f11" class="panel-collapse collapse">
+							Nein, eine Rückgabe des Tickets ist nicht vorgesehen, du kannst es aber an eine weitere Person weitergeben. Wir haben dafür eine <a href="https://docs.google.com/spreadsheets/d/1PrLeKV1RUnP8qvNbIv3fc1Fek1IzIKIOFsf4jDLkcho/edit?usp=sharing">Ticket-Tauschbörse</a> eingerichtet, trag dort einfach Dein Ticket ein.	Wenn es einen Nachfolger gibt, schreibe eine Mail mit den Daten des alten und des neuen Ticketbesitzers an <a href="mailto:mail@barcamp.ruhr">mail@barcamp-ruhr</a>, damit wir das Ticket umtragen können. 
+						</dd>
+						<dt><a data-toggle="collapse" data-parent="#faq" href="#f12">Ich habe noch Plätze im Auto frei / ich möchte nicht allein anreisen, wo kann man sich koordinieren?</a></dt>
+						<dd id="f12" class="panel-collapse collapse">
+							Wir habe ein offenes <a href="https://docs.google.com/spreadsheets/d/1zXKnJcfdRyspHXMAMRgGiLdiYH8VIoxyxu217rb7ckk/edit#gid=0">Google-Doc</a> eingerichtet, in das man seinen freien Plätze im Auto oder seine Zugverbindung eintragen kann, um Mitfahrer oder gemeinsame Zugfahrer zuu finden.							
 						</dd>
 						<dt><a data-toggle="collapse" data-parent="#faq" href="#f10">Es gibt Barcamp-Regeln?</a></dt>
 						<dd id="f10" class="panel-collapse collapse">
@@ -140,7 +199,7 @@
 				</div>
 			</div>
 		</section>
-		<section class="organizers">
+		<section class="organizers" id="organizers">
 			<div class="center clearfix">
 				<div class="clearfix">
 					<div class="text">
@@ -172,37 +231,7 @@
 				</div>
 			</div>	
 		</section>
-		<!--
-		<section class="our-sponsors">
-			<div class="center">
-				<h2>OUR SPONSORS</h2>
-				<p>A Huge Thanks to All Our Amazing Agile Ruhr camp 2015 Sponsors!</p>
-				<div class="row sponsors">
-					<div class="col-sm-4 sponsor">
-						<a href="#"><img src="images/sponsors/spr1.png" alt=""></a>
-					</div>
-					<div class="col-sm-4 sponsor">
-						<a href="#"><img src="images/sponsors/spr2.png" alt=""></a>
-					</div>
-					<div class="col-sm-4 sponsor">
-						<a href="#"><img src="images/sponsors/spr3.png" alt=""></a>
-					</div>
-				</div>
-				<div class="row sponsors">
-					<div class="col-sm-4 sponsor">
-						<a href="#"><img src="images/sponsors/spr4.png" alt=""></a>
-					</div>
-					<div class="col-sm-4 sponsor">
-						<a href="#"><img src="images/sponsors/spr5.png" alt=""></a>
-					</div>
-					<div class="col-sm-4 sponsor become-sponsor">
-						<a href="#"><span>BECOME A SPONSOR</span></a>
-					</div>
-				</div>
-			</div>	
-		</section>
 	</div>
-	-->
 	<!-- /#main -->
 	<footer id="footer">
 		<div class="center">
