@@ -316,6 +316,36 @@ a:focus{
 }
 
 /*************************
+**** =agenda
+*************************/
+.agenda {
+    background: none repeat scroll 0 0 #acacac;
+    color: #ffffff;
+    font-size: 16px;
+}
+.agenda h2 {
+    font-size: 35px;
+    font-weight: bold;
+    padding-top: 85px;
+}
+.agenda h3 {
+    color: #555555;
+    font-size: 17px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.agenda a:visited {
+    color: grey;
+}
+.agenda table {
+    color: black;
+}
+.agenda .td-time {
+    font-weight: bold;
+}
+
+/*************************
 **** =archiv
 *************************/
 
