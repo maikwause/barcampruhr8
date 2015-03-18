@@ -316,6 +316,38 @@ a:focus{
 }
 
 /*************************
+**** =archiv
+*************************/
+
+.archiv {
+	background: #000;
+	color: #ffffff;
+	font-size: 16px;
+}
+
+.archiv h2 {
+	font-weight: bold;
+	padding-top: 95px;
+}
+
+
+.archiv .text {
+	width: 68%;
+	float: right;
+}
+
+.archiv img {
+	padding-top: 95px;
+	width: 30%; 
+	float: left;
+	max-width: 250px;
+}
+
+.archiv{
+	padding-bottom: 95px;
+}
+
+/*************************
 **** =tickets
 *************************/
 
