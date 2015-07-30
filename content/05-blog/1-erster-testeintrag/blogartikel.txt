@@ -1,0 +1,9 @@
+Title: Dies ist der erste Testeintrag
+----
+Date: 24.07.2015
+----
+Text: Hallo Welt,
+ich bin ein Beispieleintrag, der extra lang ist, damit die Zeichenzahl von mindestens 300 Stück überschritten wird, damit der Text länger wird, als die Zusammenfassung selbst ist. Dabei ist es ganz schön schwer, ohne Inhalt mehr als 300 Zeichen zu schreiben. Vor allem wenn man nichts zu sagen hat. 
+
+it el es acius doloreribus eium quam, core nonseque pla nonempo remolutem con nime vendion reperum lautem volum raeperum imin re seque dolest ad ut que vel inverum quamet ut quam, esequidem. Nam licto blati quia ex essimo maximo! Dies ist ein Beispiel it el es acius doloreribus eium quam, core nonseque pla nonempo remolutem con nime vendion reperum lautem volum raeperum imin re seque dolest ad ut que vel inverum quamet ut quam, esequidem. Nam licto blati quia ex essimo maximo! Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr.
+----

@@ -1,0 +1,17 @@
+Title: barcamp.ruhr 9
+
+----
+
+Author: Orga-Team barcamp.ruhr
+
+----
+
+Description: Dies ist die offizielle Website des barcamp.ruhr
+
+----
+
+Keywords: 
+
+----
+
+Copyright: © 20015-(date: Year) (link: http://getkirby.com text: Kirby)

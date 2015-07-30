@@ -1,0 +1,20 @@
+Title: Organisatoren
+
+----
+
+Text: 
+
+# Organisatoren
+Das barcamp.ruhr 9 wird veranstaltet von
+
+(image: berthold.png)
+## Berthold Barth
+Berthold arbeitet seit über 10 Jahren mit Teams und Projekten. Vor einigen Jahren entdeckte er Agile Methoden für sich und vermittelt diese um Teams und Organisationen dabei zu unterstützen Projekte erfolgreich abzuschließen.
+
+(link: https://twitter.com/bertholdb text: Twitter), (link: https://www.facebook.com/berthold.barth text: Facebook), (link: https://www.xing.com/profile/Berthold_Barth text: Xing), (link: http://de.linkedin.com/pub/berthold-barth/56/a14/b91/de text: LinkedIn)
+
+(image: maik.png)
+## Maik Wagner
+lebt und arbeitet in Essen. 1999 gründete er die mcwiwa consulting, die bis heute interaktive, barrierefreie und webstandardkonforme Websites entwickelt. Er kümmert sich, mal lokal, mal überregional um die Verbreitung von Webstandards und Barrierefreiheit.
+
+(link: https://twitter.com/fernmuendlich text: Twitter),(link: https://www.facebook.com/fernmuendlich text: Facebook), (link: http://www.xing.com/profile/Maik_Wagner11 text: Xing), (link: http://de.linkedin.com/pub/maik-wagner/67/a19/9a8/ text: LinkedIn)
