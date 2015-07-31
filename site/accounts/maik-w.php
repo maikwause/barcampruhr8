@@ -7,8 +7,8 @@ password: >
 language: de
 role: admin
 history:
+  - home
   - blog/zweiter-test
   - kontakt
   - kontakt/organisatoren
   - sponsoren
-  - infos
