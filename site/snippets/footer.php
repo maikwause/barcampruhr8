@@ -5,7 +5,7 @@
 			<h2><span>WIR FREUEN UNS AUF EUCH</span></h2>
 		</div>
 		<div class="bottom">
-			<p class="copyright">© BarCampRuhr 2015<br>Images CC Ellen Hempel Fotografie</p>
+			<p class="copyright">© BarCampRuhr 2016<br>Images CC Simon Bierwald</p>
 			<!-- SOCIAL ICONS -->
 			<ul class="social-icons list-inline">
 				<li class="twitter"><a href="https://twitter.com/BarcampRuhr">
