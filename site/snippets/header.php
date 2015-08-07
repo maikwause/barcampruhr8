@@ -23,7 +23,7 @@
 	<header id="header">
 		<div class="center">
 			<?php //snippet('menu') ?>            
-			<img src="<?php echo url('assets/images/logo_small.png');?>" alt="barcamp flame logo">
+			<img src="<?php echo url('assets/images/bcr9-logo.png');?>" alt="barcamp flame logo">
 			<h3><span>THINK GLOBAL - ACT LOCAL</span><br><span>UNPERFEKTHAUS ESSEN; XX.XX. 2016<br>&nbsp; #bcruhr9 &nbsp;</span></h3>
 			<a href="#signup" class="btn btn-primary btn-red btn-red-small">Für Newsletter anmelden</a>
 		</div>  
