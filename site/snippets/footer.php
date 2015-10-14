@@ -1,3 +1,4 @@
+	<?php snippet('newsletter') ?>      
 	</main>
 <footer id="footer">
 	<div class="center">

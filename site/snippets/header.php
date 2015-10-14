@@ -22,11 +22,11 @@
 <body>
 	<header id="header">
 		<div class="center">
-			<?php //snippet('menu') ?>            
+			<?php snippet('menu') ?>            
 			<img src="<?php echo url('assets/images/bcr9-logo.png');?>" alt="barcamp flame logo">
 			<h3><span>DAS INTERNET, DER SPION IN UNSERER MITTE</span><br><span>UNPERFEKTHAUS ESSEN; 19./20. März 2016<br>&nbsp; #bcruhr9 &nbsp;</span></h3>
 			<a href="#signup" class="btn btn-primary btn-red btn-red-small">Für Newsletter anmelden</a>
 		</div>  
 	</header>
 	<main id="main" role="main">
-		<?php snippet('newsletter') ?>      
+
