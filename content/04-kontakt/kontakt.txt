@@ -6,8 +6,8 @@ Text:
 
 # Vernetzt Euch
 Vernetzt Euch wie die Wilden mit dem barcamp.ruhr9, wir haben 
-* ein Twitter-Account
-* ein Facebook-Event
-* ein Xing-Event
+* (link: https://twitter.com/barcampruhr text: ein Twitter-Account)
+* (link: https://www.facebook.com/events/950755531637877/ text: ein Facebook-Event)
+* (link: https://www.xing.com/communities/groups/barcamp-punkt-ruhr-c73e-1075474 text: eine Xing-Gruppe)
 
-gerne dürft Ihr Euch auch bei lanyrd eintragen oder Euch mit den (link: kontakt/organisatoren text: Organisatoren) vernetzen.
+gerne dürft Ihr Euch auch bei (link: http://lanyrd.com/2016/bcruhr9/ text: Lanyrd) eintragen oder Euch mit den (link: kontakt/organisatoren text: Organisatoren) vernetzen.
