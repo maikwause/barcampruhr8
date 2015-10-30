@@ -10,11 +10,11 @@
     <div class="collapse navbar-collapse center">
         <ul class="nav navbar-nav">
             <?php foreach($pages->visible() as $p): ?>
-                <li>
-                    <a <?php e($p->isOpen(), ' class="active"') ?> href="<?php echo $p->url() ?>"><?php echo $p->title()->html() ?></a>
+                <li class="dropdown">
+                    <a class="dropdown-toggle" <?php e($p->isOpen(), ' class="active"') ?> href="<?php echo $p->url() ?>"><?php echo $p->title()->html() ?></a>
 
                     <?php if($p->hasVisibleChildren()): ?>
-                    <ul class="submenu">
+                    <ul class="dropdown-menu">
                         <?php foreach($p->children()->visible() as $p): ?>
                             <li>
                             <a href="<?php echo $p->url() ?>"><?php echo $p->title()->html() ?></a>

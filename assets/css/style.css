@@ -117,11 +117,11 @@ a:focus{
 	text-align: center;
 }
 
-#header .navbar {
+#header .navbar, #header .dropdown-menu {
 	background: rgba(0, 173, 242, 0.68);
 }
 
-.navbar-nav>li>a {
+.navbar-nav>li>a, .dropdown-menu>li>a {
 	line-height: 20px;
 	font-size: 19px;
 	font-weight: bold;
@@ -136,15 +136,27 @@ a:focus{
 .navbar-nav>li>a:hover,
 .navbar-nav>li.active>a,
 .navbar-nav>li>a:focus,
-.navbar-nav>li>a:active {
+.navbar-nav>li>a:active,
+.dropdown-menu>li>a:hover,
+.dropdown-menu>li.active>a,
+.dropdown-menu>li>a:focus,
+.dropdown-menu>li>a:active
+{
+	color: #FFF;
 	background: #009ddc;
 	border: none;
 	outline: none;
 }
 
-.navbar-nav>li>a.active {
+.navbar-nav>li>a.active, {
 	background: #009ddc;
 }
+
+ul.nav li.dropdown:hover ul.dropdown-menu{
+	display: block;
+	margin-top:0px
+}
+
 
 .navbar .navbar-toggle {
 	background-color: #fff;
@@ -157,6 +169,12 @@ a:focus{
 	-moz-box-shadow: none;
 	     box-shadow: none;
 }
+
+.nav .open > a, .nav .open>a:hover, .nav .open>a:focus{
+		background: #009ddc;	
+		border-color: #428bca;
+}
+
 
 .navbar .navbar-toggle .icon-bar {
     background: none repeat scroll 0 0 #009ddc;
