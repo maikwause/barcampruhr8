@@ -5,6 +5,11 @@ pages:
   template: sponsors
 files: true
 fields:
+  goldsponsor:
+    label: Premiumsponsor
+    type: checkboxes
+    options:
+      gold: Jawoll, Premiumsponsor
   title:
     label: Title
     type:  text
