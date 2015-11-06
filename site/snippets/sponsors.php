@@ -7,7 +7,7 @@
 		<?php 
 		$i = 1;
 		foreach(page('sponsoren')->children()->visible() as $project): 
-		e($i % 5 == 0, '</div><div class="row sponsor">') ?>
+		e($i % 5 == 0, '</div><div class="row sponsors">') ?>
 		<div class="col-sm-3 sponsor">
     		<?php if($image = $project->images()->sortBy('sort', 'asc')->first()): ?>
     		<a href="<?php echo $project->link() ?>">
