@@ -7,8 +7,8 @@ password: >
 language: de
 role: admin
 history:
-  - tickets
-  - tickets/teilnehmer
-  - kontakt
-  - home
-  - blog/zweiter-test
+  - sponsoren/fuenftens
+  - sponsoren/viertens
+  - sponsoren/tester
+  - sponsoren/luemmelluemmel
+  - sponsoren/dotruhr

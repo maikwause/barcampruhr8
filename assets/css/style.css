@@ -224,8 +224,9 @@ ul.nav li.dropdown:hover ul.dropdown-menu{
 *************************/
 
 .speaking-categories {
-	background: url(../images/section-1-bg.jpg) repeat;
+	background: #555;
 	padding-bottom: 35px;
+	color: #FFF;
 }
 
 .speaking-categories .center {
