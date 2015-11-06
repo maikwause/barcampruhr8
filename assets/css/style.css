@@ -274,7 +274,7 @@ ul.nav li.dropdown:hover ul.dropdown-menu{
 	color: #ffffff;
 }
 
-.know-about-us h2 {
+.know-about-us h1,.know-about-us h2 {
 	font-weight: bold;
 	padding-top: 95px;
 }
