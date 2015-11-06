@@ -7,8 +7,8 @@ password: >
 language: de
 role: admin
 history:
+  - kontakt/organisatoren
   - sponsoren/fuenftens
   - sponsoren/viertens
   - sponsoren/tester
   - sponsoren/luemmelluemmel
-  - sponsoren/dotruhr
