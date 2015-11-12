@@ -1,4 +1,8 @@
-Title: viertens
+Goldsponsor: gold
+
+----
+
+Title: communicode
 
 ----
 
@@ -6,7 +10,7 @@ Text:
 
 ----
 
-Link: 
+Link: https://www.communicode.de/
 
 ----
 

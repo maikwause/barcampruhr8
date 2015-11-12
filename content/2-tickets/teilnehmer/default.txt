@@ -8,4 +8,4 @@ Text:
 
 Es gibt eine Teilnehmerliste, auch wenn sie versteckt auf der Eventbrite-Seite liegt, wir schicken Euch hin:
 
-(link: https://www.eventbrite.de/preview?eid=19082910499#sort_option text: https://www.eventbrite.de/preview?eid=19082910499#sort_option)
+<https://www.eventbrite.de/e/barcampruhr-9-tickets-19082910499#sort_option>
