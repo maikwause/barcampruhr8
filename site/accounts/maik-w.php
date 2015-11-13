@@ -7,7 +7,7 @@ password: >
 language: de
 role: admin
 history:
-  - sponsoren/test
+  - sponsoren/gls-bank
   - sponsoren/9elements
   - sponsoren/communicode
   - sponsoren/luemmelluemmel
