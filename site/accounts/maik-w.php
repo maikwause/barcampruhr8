@@ -7,7 +7,7 @@ password: >
 language: de
 role: admin
 history:
-  - blog/zweiter-test
+  - blog/tickets-tickets-tickets
   - organisatoren
   - sponsoren/gls-bank
   - sponsoren/9elements
