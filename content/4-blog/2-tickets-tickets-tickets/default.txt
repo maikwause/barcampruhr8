@@ -1,0 +1,56 @@
+Title: Tickets, Tickets, Tickets
+
+----
+
+Text: 
+
+Liebe Freundinnen und Freunde des barcamp.ruhr,
+
+ 
+Wie versprochen gehen noch diesen November die ersten Tickets in den Verkauf. Dazu, zu ersten Sponsoren und zu unserer neuen Website mehr in dieser Mail.
+ 
+Ticketverkauf:
+ 
+Der Ticketverkauf beginnt am 17.11. um 11:00 Uhr. Ab dann könnt Ihr über unsere Website das Zweitagesticket für das barcamp.ruhr 9 Wochenende für 20,- € erstehen. Der Preis beinhaltet 2 komplette Tage im Unperfekthaus samt Catering und (alkoholfreien) Getränken. Für den Fall, dass Ihr nur einen der beiden Tage kommen könnt oder kurzfristig verhindert seid, stellen wir Euch demnächst die bekannte Ticketbörse zur Verfügung, auf der Ihr unkompliziert Tickets tauschen könnt.
+
+Zusätzlich zu den regulären Tickets habt Ihr Euch eine Fortsetzung der Unterstützertickets gewünscht, die einen höheren Anteil zur Kostendeckung beitragen. Für 59,- € könnt Ihr auch dieses Jahr ein kleines Kontingent dieser Tickets erstehen. Bitte sendet uns ein Foto/Bild (keine Logos bitte) an mail@barcamp.ruhr und wir drucken Euch als Supporter mit auf das Poster.
+
+Bitte habt Verständnis, dass die Kontingente sehr begrenzt sind und wir bei 50 Tickets und pro Welle ca. 1000 Hits auf die Website innerhalb von Minuten ausverkauft sind. Um für alle faire Chancen zu schaffen, verkaufen wir die Tickets in Wellen. Diese planen wir zu unterschiedlichen Tageszeiten, auch außerhalb der üblichen Bürozeiten.
+
+Unser Tickting-Anbieter hat die Zahlungsmöglichkeiten erweitert. Ihr könnt Eure Tickets per Kreditkarte (Visa, Master, Amex), per sofortüberweisung und neu jetzt auich per SEPA-Lastschrift bezahlen.
+ 
+Neue Website
+
+Wie Euch nicht entgangen sein dürfte, waren wir sehr fleissig und haben unsere schlanke, erste Website auf das CMS kirby umgestellt, das uns freundlicherweise von Bastian Allgeier zur Verfügung gestellt wird. Ab demnächst können wir dann an gewohnter Stelle neben den bisherigen Inhalten auch Blogposts und Sammelstellen für Eure Inhalte anbieten. Yeah!
+
+Teilnahme:
+ 
+Ein BarCamp lebt von den Teilnehmern und nur von den Teilnehmern. Gebt die Einladung an interessierte Menschen weiter, die Interesse an einer besonders bunten Mischung an Sessions oder an einem familiären Klassentreffen haben. Oder an Menschen, von denen ihr glaubt, dass mehr Menschen ihnen zuhören sollten. Oder an Menschen, die neue Impulse für ihre Arbeit brauchen. Oder … Oder…
+ 
+Das barcamp.ruhr 9 findet Ihr auf Twitter unter @barcampruhr mit dem Hashtag #bcruhr9, im Web unter http://barcamp.ruhr (duh), und auf Facebook hier: https://www.facebook.com/BarCampRuhr. Vernetzt Euch fleissig und seht, wer noch alles kommt und was sie zu erzählen haben!
+ 
+Erste Sponsoren
+ 
+
+
+An dieser Stelle einen ganz herzlichen Dank an die ersten Sponsoren, die uns unterstützen: Als Premium Sponsor ist dieses Jahr die communicode AG dabei, Experte für E-Commerce und ECMS Lösungen mit Schwerpunkt auf hybris (und Bertholds Arbeitgeber).
+
+
+
+
+Zweiter Premium Sponsor ist die sozial-ökologische GLS Bank, die sich dem Finanzieren sinnstiftender und nachhaltiger Projekte verschrieben hat.
+
+Weiter werden wir unterstützt von den Rheinschafen und natürlich wieder dot.ruhr.
+
+Als Partner werden wir ausserdem dieses Jahr von Gerd Schröder und dem Team kreative kommunikations konzepte (beachtet das fesche neue Logo!) mit Technik und Knowhow zur Aufnahme von Videos auf dem Barcamp ausgestattet. Damit haben wir am Ende auch als Video eine schöne Erinnerung.
+
+Wenn Ihr jemanden kennt oder selber das barcamp.ruhr unterstützen wollt freuen wir uns sehr über eine Kontaktaufnahme unter mail@barcamp.ruhr , über Twitter oder telefonisch unter 0178-8603323 (Berthold).
+ 
+Wer sind wir?
+ 
+Berthold Barth (@bertholdb) ist Agile Coach bei der communicode AG in Essen und verantwortet dort die Einführung und Verbesserung Agiler Methoden und Werte. Neben dem barcamp.ruhr organisiert er das kickstarter camp (23./24. Januar im UPH) und das agile.ruhr camp (23./24. April im UPH).
+ 
+Maik Wagner (@fernmuendlich) lebt und arbeitet in Essen. 1999 gründete er die mcwiwa consulting, die bis heute interaktive, barrierefreie und webstandardkonforme Websites entwickelt.
+ 
+Bis demnächst,
+Berthold & Maik
