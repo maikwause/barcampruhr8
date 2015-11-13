@@ -7,8 +7,8 @@ password: >
 language: de
 role: admin
 history:
+  - organisatoren
   - sponsoren/gls-bank
   - sponsoren/9elements
   - sponsoren/communicode
   - sponsoren/luemmelluemmel
-  - sponsoren/dotruhr

@@ -450,7 +450,7 @@ ul.nav li.dropdown:hover ul.dropdown-menu{
 	color: #ffffff;
 }
 
-.organizers h2 {
+.know-about-us .organizers h2 {
 	font-weight: bold;
 	padding-top: 95px;
 }
@@ -471,6 +471,10 @@ ul.nav li.dropdown:hover ul.dropdown-menu{
 .orgainfo{
 	 min-height:200px;
 	}
+
+.know-about-us .orgainfo h2{
+	padding-top: 95px;
+}	
 /*************************
 **** =our-sponsors
 *************************/

@@ -11,7 +11,7 @@ Das barcamp.ruhr 9 wird veranstaltet von
 <div class="text">  
 <h2> Berthold Barth</h2>
 <p>
-Berthold arbeitet seit über 10 Jahren mit Teams und Projekten. Vor einigen Jahren entdeckte er Agile Methoden für sich und vermittelt diese um Teams und Organisationen dabei zu unterstützen Projekte erfolgreich abzuschließen.
+ist Agile Coach bei der communicode AG in Essen und verantwortet dort die Einführung und Verbesserung Agiler Methoden und Werte. Neben dem barcamp.ruhr organisiert er das kickstarter camp (23./24. Januar im UPH) und das agile.ruhr camp (23./24. April im UPH).
 </p>
 <p>
 (link: https://twitter.com/bertholdb text: Twitter), (link: https://www.facebook.com/berthold.barth text: Facebook), (link: https://www.xing.com/profile/Berthold_Barth text: Xing), (link: http://de.linkedin.com/pub/berthold-barth/56/a14/b91/de text: LinkedIn)
