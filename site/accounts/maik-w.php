@@ -7,8 +7,8 @@ password: >
 language: de
 role: admin
 history:
+  - tickets
   - blog/tickets-tickets-tickets
   - organisatoren
   - sponsoren/gls-bank
   - sponsoren/9elements
-  - sponsoren/communicode
