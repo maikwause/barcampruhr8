@@ -1,8 +1,8 @@
 Title: Save the date
+
 ----
-Date: 04.09.2015
-----
-Text:
+
+Text: 
 
 ## Liebe Freundinnen und Freunde des barcamp.ruhr,
 Auch 2016 wird es, wie versprochen, wieder ein barcamp.ruhr geben.
@@ -19,26 +19,25 @@ Die erste Welle des Ticketverkaufs startet noch im November. Ab dann könnt Ihr 
  
 Ein Barcamp lebt von den Teilnehmern und nur von den Teilnehmern. Gebt die Einladung an Menschen weiter, die Interesse an einer besonders bunten Mischung an Sessions oder an einem familiären Klassentreffen haben. Oder an Menschen, von denen ihr glaubt, dass mehr Menschen ihnen zuhören sollten. Oder an Menschen, die neue Impulse für ihre Arbeit brauchen. Oder … Oder… Denkt dieses Mal auch an Eltern als potentielle Teilgeber, wir nehmen dieses Jahr noch mal einen Anlauf mit Kinderbetreuung. Weitere Infos hierzu auf diesem Kanal.
  
-Das barcamp.ruhr 9 findet Ihr auf Twitter unter @barcampruhr mit dem Hashtag #bcruhr9, im Web unter http://barcamp.ruhr (duh), und auf Facebook hier: https://www.facebook.com/BarCampRuhr.
-Auch für busy business haben wir natürlich eine Gruppe: https://www.xing.com/communities/groups/barcamp-punkt-ruhr-e380-1075474 , dort allerdings keine nennenswerten News anzubieten.
+Das barcamp.ruhr 9 findet Ihr auf Twitter unter (twitter: barcampruhr) mit dem Hashtag (link: https://twitter.com/search?q=bcruhr9 text: #bcruhr9), im Web unter <http://barcamp.ruhr> (duh), und auf Facebook hier: <https://www.facebook.com/BarCampRuhr>.
+Auch für busy business haben wir natürlich eine Gruppe: <https://www.xing.com/communities/groups/barcamp-punkt-ruhr-e380-1075474> , dort allerdings keine nennenswerten News anzubieten.
  
-Sponsoren
+## Sponsoren
  
-Um das barcamp.ruhr finanzieren zu können setzen wir auch dieses Jahr wieder auf die Unterstützung durch Sponsoren. Wenn Ihr jemanden kennt oder selber das barcamp.ruhr unterstützen wollt freuen wir uns sehr über eine Kontaktaufnahme unter mail@barcamp.ruhr , über Twitter oder telefonisch unter 0178-8603323 (Berthold).
+Um das barcamp.ruhr finanzieren zu können setzen wir auch dieses Jahr wieder auf die Unterstützung durch Sponsoren. Wenn Ihr jemanden kennt oder selber das barcamp.ruhr unterstützen wollt freuen wir uns sehr über eine Kontaktaufnahme unter (link: mailto:mail@barcamp.ruhr text: mail@barcamp.ruhr) , über Twitter oder telefonisch unter 0178-8603323 (Berthold).
 
-Schwestercamps
+## Schwestercamps
 
-Wir freuen uns, das auch unser Schwestercamp, das agile.ruhr Camp nächstes Jahr in eine neue Runde geht. Dieses Themen-Barcamp empfiehlt sich für alle, die sich mit uns und vielen anderen über moderne Arbeitswelten und Arbeiten auf Augenhöhe unterhalten wollen. Dieses Barcamp findet nächstes Jahr am 23./24. April im UPH statt. Mehr Informationen und den Newsletter gibt es unter agile.ruhr.
+Wir freuen uns, das auch unser Schwestercamp, das (link: http://agile.ruhr/camp/2016/index.php text: agile.ruhr) Camp nächstes Jahr in eine neue Runde geht. Dieses Themen-Barcamp empfiehlt sich für alle, die sich mit uns und vielen anderen über moderne Arbeitswelten und Arbeiten auf Augenhöhe unterhalten wollen. Dieses Barcamp findet nächstes Jahr am 23./24. April im UPH statt. Mehr Informationen und den Newsletter gibt es unter agile.ruhr.
 
-Für Freunde von kickstarter, crowdfunding und startup findet ausserdem noch dieses Jahr am 17./18. Oktober ebenfalls im UPH das kickstarter camp statt. Weltweit zum ersten Mal im Barcampformat unterhalten wir uns dort über Möglichkeiten und Risiken der neuen Finanzierungsformen, über Erfahrungen aus Kampagnen, Auswertungen, und speziell für den deutschen Markt relevante Informationen. Unterstützt werden wir unter Anderem durch Schirmherr Thomas Kufen, MdL. Weitere Infos, Newsletter und Tickets unter www.kickstartercamp.de.
+Für Freunde von kickstarter, crowdfunding und startup findet ausserdem noch dieses Jahr am 17./18. Oktober ebenfalls im UPH das kickstarter camp statt. Weltweit zum ersten Mal im Barcampformat unterhalten wir uns dort über Möglichkeiten und Risiken der neuen Finanzierungsformen, über Erfahrungen aus Kampagnen, Auswertungen, und speziell für den deutschen Markt relevante Informationen. Unterstützt werden wir unter Anderem durch Schirmherr Thomas Kufen, MdL. Weitere Infos, Newsletter und Tickets unter <www.kickstartercamp.de>.
  
-Wer sind wir?
+## Wer sind wir?
  
-Berthold Barth (@bertholdb) ist Agile Coach bei der communicode AG in Essen und verantwortet dort die Einführung und Verbesserung Agiler Methoden. Er ist erklärter Barcamp und Open Space Fan, und richtet nebenher das barcamp.ruhr, das kickstartercamp und den monatlichen Scrumtisch in Essen aus.
+**Berthold Barth** ((twitter: bertholdb)) ist Agile Coach bei der communicode AG in Essen und verantwortet dort die Einführung und Verbesserung Agiler Methoden. Er ist erklärter Barcamp und Open Space Fan, und richtet nebenher das barcamp.ruhr, das kickstartercamp und den monatlichen Scrumtisch in Essen aus.
  
-Maik Wagner (@fernmuendlich) lebt und arbeitet in Essen. 1999 gründete er die mcwiwa consulting, die bis heute interaktive, barrierefreie und webstandardkonforme Websites entwickelt.
+**Maik Wagner** ((twitter: fernmuendlich)) lebt und arbeitet in Essen. 1999 gründete er die mcwiwa consulting, die bis heute interaktive, barrierefreie und webstandardkonforme Websites entwickelt.
  
  
-Wir freuen uns auf Euch,
+**Wir freuen uns auf Euch,**
 Berthold & Maik
-----

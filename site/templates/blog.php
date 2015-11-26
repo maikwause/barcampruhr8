@@ -10,7 +10,7 @@
   <?php foreach($page->children()->visible()->flip() as $article): ?>
 
   <tr>
-  	<td><h1><a href="<?php echo $article->url() ?>"><?php echo $article->title()->html() ?></h1></a></td><td><?php echo $article->date() ?></td>
+  	<td><h1><a href="<?php echo $article->url() ?>"><?php echo $article->title()->html() ?></h1></a></td><td><?php echo $article->date('d.m.Y')?></td>
   </tr>	
   <tr>
   	<td><p><?php echo $article->text()->excerpt(300) ?></p></td><td><a href="<?php echo $article->url() ?>">weiterlesen…</a><td>

@@ -1,6 +1,8 @@
 Title: Tickets, Tickets, Tickets
 
 ----
+Date: 2015-11-13
+----
 
 Text: 
 
@@ -30,7 +32,6 @@ Ein BarCamp lebt von den Teilnehmern und nur von den Teilnehmern. Gebt die Einla
 Das barcamp.ruhr 9 findet Ihr auf Twitter unter @barcampruhr mit dem Hashtag #bcruhr9, im Web unter http://barcamp.ruhr (duh), und auf Facebook hier: https://www.facebook.com/BarCampRuhr. Vernetzt Euch fleissig und seht, wer noch alles kommt und was sie zu erzählen haben!
  
 ## Erste Sponsoren
-(image: communicode_logo.jpg width:800)
 An dieser Stelle einen ganz herzlichen Dank an die ersten Sponsoren, die uns unterstützen: Als Premium Sponsor ist dieses Jahr die **(link: http://www.communicode.de/ text: communicode AG)** dabei, Experte für E-Commerce und ECMS Lösungen mit Schwerpunkt auf hybris (und Bertholds Arbeitgeber).
 
 Zweiter Premium Sponsor ist die sozial-ökologische **(link: https://www.gls.de/ text: GLS Bank)**, die sich dem Finanzieren sinnstiftender und nachhaltiger Projekte verschrieben hat.
