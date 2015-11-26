@@ -1,6 +1,8 @@
 Title: Save the date
 
 ----
+Date: 2015-09-24
+----
 
 Text: 
 
