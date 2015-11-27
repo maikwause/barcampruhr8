@@ -28,7 +28,7 @@
                     <?php endif ?>
                 </li>
             <?php endforeach ?>
-            <li><a href="<?= url()?>/bcruhr8">#bcruhr8</a>
+            <li><a href="<?= url()?>/../bcruhr8">#bcruhr8</a>
         </ul>
     </div>
 </nav>
