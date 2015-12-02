@@ -7,8 +7,8 @@ password: >
 language: de
 role: admin
 history:
-  - blog/save-the-date
-  - tickets
-  - blog/tickets-tickets-tickets
-  - organisatoren
-  - sponsoren/gls-bank
+  - sponsoren/global-village
+  - teaser/location
+  - infos/fuer-einsteiger
+  - infos/location
+  - infos

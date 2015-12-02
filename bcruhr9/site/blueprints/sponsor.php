@@ -1,6 +1,6 @@
 <?php if(!defined('KIRBY')) exit ?>
 
-title: Sponsoren
+title: Sponsor
 pages:
   template: sponsors
 files: true
