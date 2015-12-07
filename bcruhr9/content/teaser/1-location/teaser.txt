@@ -1,0 +1,13 @@
+Title: Location
+
+----
+
+Text: Wir treffen uns im **UNPERFEKTHAUS**,  Friedrich-Ebert-Str. 18. 45127 Essen
+
+----
+
+Link: infos/location
+
+----
+
+Linktitle: Mehr zur Location

@@ -7,8 +7,8 @@ password: >
 language: de
 role: admin
 history:
-  - sponsoren/global-village
+  - infos/uebernachtung
   - teaser/location
+  - teaser/tickets
   - infos/fuer-einsteiger
-  - infos/location
   - infos

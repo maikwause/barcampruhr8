@@ -298,6 +298,14 @@ ul.nav li.dropdown:hover ul.dropdown-menu{
 }
 
 /*************************
+**** =teaser
+*************************/
+.teaser{
+	border: 1px solid #FFF;
+	min-height: 230px;
+}
+
+/*************************
 **** =faq
 *************************/
 

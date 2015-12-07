@@ -1,0 +1,9 @@
+Title: Tickets
+
+----
+
+Text: Die erste Tickets sind verkauft, die zweite Ticketwelle ist schon in Planung, Supportertickets sind noch verfügbar.
+
+----
+
+Link: tickets

@@ -8,5 +8,6 @@
 		</div>
 	</div>
 </section>
+<?php snippet('teasers') ?>
 <?php snippet('sponsors') ?>
 <?php snippet('footer') ?>

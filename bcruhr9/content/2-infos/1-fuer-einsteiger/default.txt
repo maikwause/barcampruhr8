@@ -1,0 +1,77 @@
+Title: Für Einsteiger
+
+----
+
+Text: 
+
+# Einsteiger willkommen!
+
+Wenn Du schon immer wissen wolltest, was es mit diesem Barcamps auf sich hat
+
+## FAQ
+
+Wir haben die ersten Fragen, von denen wir glauben, dass sie Einsteiger am Ehesten interessieren in einer FAQ zusammengefasst: 
+<div class="faq">
+<dl>
+						<dt><a href="#f9" data-parent="#faq" data-toggle="collapse">Was ist ein Barcamp?</a></dt>
+						<dd class="panel-collapse collapse in" id="f9" style="height: auto;">
+							Ein Barcamp wird auch „Unkonferenz“ genannt. Das kommt daher, dass es kein fertiges Programm wie bei 'normalen' Konferenzen gibt, sondern die Agenda entsteht erst am Morgen des Barcamps selbst und jeder kann, darf und soll Diskussionen und Austausch über wichtige Themen mitgestalten.
+							Jeder Teilnehmer soll zugleich Vortragender und Mitorganisator sein; dadurch entsteht ein spannender Dialog auf Augenhöhe, der für alle Beteiligten, ob Experte oder Neuling, ob Vorstand oder Student, eine echte Bereicherung ist.
+							Eine gute Erläuterung zu „Was ist ein Barcamp“ und eine Klärung des Begriffs <a href="http://www.franztoo.de/?p=113">kommt von Franz Patzig (von 2007)</a><br>
+							<a href="https://www.youtube.com/watch?v=IQBCsBeWFew">Eine kurze Erklärung auf Youtube</a><br>
+							<a href="http://de.wikipedia.org/wiki/Barcamp">Begriffserkärung auf Wikipedia</a> 
+						</dd>
+						<dt><a href="#f1" data-parent="#faq" data-toggle="collapse" class="collapsed">Was kostet die Teilnahme?</a></dt>
+						<dd class="panel-collapse collapse" id="f1">
+							Ein Ticket für beide Tage kostet 20 EUR (incl. Gebühren). Darin enthalten sind die Räumlichkeiten und Essen & Trinken an beiden Tagen (ohne Abendveranstaltung). Da dieser Preis die tatsächlichen Kosten nicht deckt, sind wir auf der Suche nach Sponsoren und wenn wir genügend Zusagen haben, werden wir Stück für Stück die Tickets freigeben. Menschen, die nicht in der Lage sind, diesen Betrag finanziell zu stemmen, melden sich bitte bei uns, wir finden eine Lösung! Menschen, die das Barcamp finanziell und ideell unterstützen möchten, können gerne ein Supporter-Ticket kaufen.
+						</dd>	
+						<dt><a href="#f2" data-parent="#faq" data-toggle="collapse" class="collapsed">Warum ist die Teilnahme so günstig, Konferenzen kosten über 1000 Euro?</a></dt>
+						<dd class="panel-collapse collapse" id="f2">
+							Auch das ist Teil der Barcamp-Philosophie, das Barcamp soll für jeden zugänglich sein, unabhängig von den finanziellen Mitteln, der Austausch auf Augenhöhe steht im Vordergrund. Ziel ist, dass jeder Teilnehmer, auch wir Organisatoren, etwas lernt und mit nach Hause nimmt. Angefangen von Kontakten bis hin zu ganz konkreten Ideen.
+						</dd>
+<!--
+						<dt><a href="#f11" data-parent="#faq" data-toggle="collapse" class="collapsed">Ich kann doch nicht kommen, kann ich mein Ticket zurückgeben?</a></dt>
+						<dd class="panel-collapse collapse" id="f11">
+							Nein, eine Rückgabe des Tickets ist nicht vorgesehen, du kannst es aber an eine weitere Person weitergeben. Wir haben dafür eine <a href="https://docs.google.com/spreadsheets/d/1PrLeKV1RUnP8qvNbIv3fc1Fek1IzIKIOFsf4jDLkcho/edit?usp=sharing">Ticket-Tauschbörse</a> eingerichtet, trag dort einfach Dein Ticket ein.	Wenn es einen Nachfolger gibt, schreibe eine Mail mit den Daten des alten und des neuen Ticketbesitzers an <a href="mailto:mail@barcamp.ruhr">mail@barcamp-ruhr</a>, damit wir das Ticket umtragen können. 
+						</dd>
+-->
+<!--
+						<dt><a href="#f12" data-parent="#faq" data-toggle="collapse" class="collapsed">Ich habe noch Plätze im Auto frei / ich möchte nicht allein anreisen, wo kann man sich koordinieren?</a></dt>
+						<dd class="panel-collapse collapse" id="f12">
+							Wir habe ein offenes <a href="https://docs.google.com/spreadsheets/d/1zXKnJcfdRyspHXMAMRgGiLdiYH8VIoxyxu217rb7ckk/edit#gid=0">Google-Doc</a> eingerichtet, in das man seinen freien Plätze im Auto oder seine Zugverbindung eintragen kann, um Mitfahrer oder gemeinsame Zugfahrer zuu finden.							
+						</dd>
+-->
+						<dt><a href="#f10" data-parent="#faq" data-toggle="collapse" class="collapsed">Es gibt Barcamp-Regeln?</a></dt>
+						<dd class="panel-collapse collapse" id="f10">
+							Ja, gibt es:
+								<ol>
+									<li>Sprich über das BarCamp.</li>
+									<li>Blogge über das BarCamp.</li>
+									<li>Wenn du etwas präsentieren willst, musst du dein Thema und deinen Namen in ein Präsentationsfenster schreiben. („Sessionboard“)</li>
+									<li>Stelle dich mit drei Worten vor. (Die drei „Hashtags“ / Schlagworte bei der Vorstellungsrunde)</li>
+									<li>So viele zeitgleiche Präsentationen wie es Räume gibt.</li>
+									<li>Keine vorher festgelegten Präsentationen, keine Zuschauer (sondern Teilnehmer).</li>
+									<li>Präsentationen dauern so lange, wie sie dauern oder bis das nächste Präsentationsfenster beginnt.</li>
+									<li>Wenn du zum ersten Mal bei einem BarCamp bist, MUSST du präsentieren. (Ok, du MUSST nicht wirklich, aber versuche, zusammen mit jemand anders zusammen zu präsentieren oder stelle wenigstens Fragen und sei ein interaktiver Teilehmer.)</li>
+								</ol>
+							Natürlich wirst du nicht verhaftet oder ausgeschlossen, wenn du nicht alle Regeln erfüllst, aber der grundsätzliche Gedanke dahinter ist, ein wenig Struktur in den Ablauf zu bringen und eben nicht nur passiver Konsument zu sein, sondern aktiver Teilgeber, der sich nach seinen Möglichkeiten einbringt.
+						</dd>
+						<dt><a href="#f4" data-parent="#faq" data-toggle="collapse" class="collapsed">Muss ich wirklich einen Vortrag halten?</a></dt>
+						<dd class="panel-collapse collapse" id="f4">
+							Nein. Nicht zwingend. Aber schön wäre es schon, wenn du eine Session hieltest. Es gibt aber auch andere Möglichkeiten, sich auf einem Barcamp zu beteiligen. Suche dir jemanden, mit du zusammen eine Session halten kannst. Oder stelle Fragen: „Ich habe jetzt Device X mit Betriebssystem Y neu. Welche Apps sind die Besten? “ „Wer möchte sich zum Thema XY austauschen?“ geht auch.
+							Du kannst dich aber auch einbringen, indem du bei der Durchführung hilfst, z.B. indem du die eine oder andere Stunde CheckIn machst. Oder etwas anderes. Frag einfach bei den Organisatoren nach. Sie werden dankbar sein!
+
+						</dd>
+						<dt><a href="#f5" data-parent="#faq" data-toggle="collapse" class="collapsed">Zu meiner Session kommen nur wenig Leute, ist das schlimm?</a></dt>
+						<dd class="panel-collapse collapse" id="f5">
+							Nein. Es gilt die Regel „Wer auch immer da ist, ist der Richtige.“ Oft sind die kleinen Sessions die, die am meisten inspirieren.
+						</dd>
+						<dt><a href="#f7" data-parent="#faq" data-toggle="collapse" class="collapsed">Ich möchte einen Werbevortrag halten, geht das?</a></dt>
+						<dd class="panel-collapse collapse" id="f7">Sorry, die Veranstaltung ist nicht zum Verkaufen da. Du	kannst allerdings eine Session anbieten, in der du fragst, wie du deine Werbevorträge verbessern kannst.
+						</dd>
+						<dt><a href="#f8" data-parent="#faq" data-toggle="collapse" class="collapsed">Ich möchte ein Honorar für meinen Vortrag.</a></dt>
+						<dd class="panel-collapse collapse" id="f8">Das geht nicht, das würde dem Prinzip der Augenhöhe widersprechen.
+						</dd>
+					</dl>
+</div>
+Sind noch mehr Fragen offen? Immer her damit!
