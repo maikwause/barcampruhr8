@@ -1,6 +1,6 @@
 <section class="know-about-us">
 	<div class="center">
-    	<h2>Das erwartet Euch</h2>
+    	<h1>Das erwartet Euch</h1>
 		<div class="row">
 		<?php
 		foreach(page('teaser')->children()->visible() as $tea):?>

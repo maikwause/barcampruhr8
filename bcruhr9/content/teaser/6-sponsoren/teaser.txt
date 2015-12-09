@@ -1,0 +1,13 @@
+Title: Sponsoren
+
+----
+
+Text: Ohne unsere großartigen Sponsoren wäre das barcamp.ruhr nicht möglich. Bitte stattet Ihnen einen Besuch ab
+
+----
+
+Link: home#sponsors
+
+----
+
+Linktitle: Zu den Sponsoren

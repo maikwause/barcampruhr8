@@ -7,8 +7,8 @@ password: >
 language: de
 role: admin
 history:
-  - infos/uebernachtung
-  - teaser/location
-  - teaser/tickets
+  - tickets
+  - teaser/sponsoren
+  - teaser/das-barcamp
+  - teaser
   - infos/fuer-einsteiger
-  - infos

@@ -6,7 +6,9 @@ Text:
 
 # Einsteiger willkommen!
 
-Wenn Du schon immer wissen wolltest, was es mit diesem Barcamps auf sich hat
+Wenn Du schon immer wissen wolltest, was es mit diesen Barcamps auf sich hat, nutze die Gelegenheit und lasse das barcamp.ruhr Dein erstes Barcamp sein. Wir freuen uns über jede/n, der bei uns seine ersten Barcamp-Erfahrungen macht.
+Traditionell gibt es beim barcamp.ruhr zu Anfang eine Session "Barcamp für Einsteiger", in der alle Fragen auch persönlich besprochen werden können, es gibt also keinen Grund, nicht teilzunehmen.
+
 
 ## FAQ
 
@@ -23,7 +25,7 @@ Wir haben die ersten Fragen, von denen wir glauben, dass sie Einsteiger am Ehest
 						</dd>
 						<dt><a href="#f1" data-parent="#faq" data-toggle="collapse" class="collapsed">Was kostet die Teilnahme?</a></dt>
 						<dd class="panel-collapse collapse" id="f1">
-							Ein Ticket für beide Tage kostet 20 EUR (incl. Gebühren). Darin enthalten sind die Räumlichkeiten und Essen & Trinken an beiden Tagen (ohne Abendveranstaltung). Da dieser Preis die tatsächlichen Kosten nicht deckt, sind wir auf der Suche nach Sponsoren und wenn wir genügend Zusagen haben, werden wir Stück für Stück die Tickets freigeben. Menschen, die nicht in der Lage sind, diesen Betrag finanziell zu stemmen, melden sich bitte bei uns, wir finden eine Lösung! Menschen, die das Barcamp finanziell und ideell unterstützen möchten, können gerne ein Supporter-Ticket kaufen.
+							Ein Ticket für beide Tage kostet 20 EUR (incl. Gebühren). Darin enthalten sind die Räumlichkeiten und Essen & Trinken an beiden Tagen (ohne Abendveranstaltung). Da dieser Preis die tatsächlichen Kosten nicht deckt, sind wir auf der Suche nach Sponsoren und wenn wir genügend Zusagen haben, werden wir Stück für Stück die Tickets freigeben. Menschen, die nicht in der Lage sind, diesen Betrag finanziell zu stemmen, melden sich bitte bei uns, wir finden eine Lösung! Menschen, die das Barcamp finanziell und ideell unterstützen möchten, können gerne ein (link: tickets text: Supporter-Ticket) kaufen.
 						</dd>	
 						<dt><a href="#f2" data-parent="#faq" data-toggle="collapse" class="collapsed">Warum ist die Teilnahme so günstig, Konferenzen kosten über 1000 Euro?</a></dt>
 						<dd class="panel-collapse collapse" id="f2">
@@ -74,4 +76,4 @@ Wir haben die ersten Fragen, von denen wir glauben, dass sie Einsteiger am Ehest
 						</dd>
 					</dl>
 </div>
-Sind noch mehr Fragen offen? Immer her damit!
+Sind noch mehr Fragen offen? (email: mail@barcamp.ruhr text: Immer her damit)!

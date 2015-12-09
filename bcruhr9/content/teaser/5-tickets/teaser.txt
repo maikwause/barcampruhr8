@@ -7,3 +7,7 @@ Text: Die erste Tickets sind verkauft, die zweite Ticketwelle ist schon in Planu
 ----
 
 Link: tickets
+
+----
+
+Linktitle: Zur Ticketseite
