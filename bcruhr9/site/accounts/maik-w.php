@@ -7,8 +7,8 @@ password: >
 language: de
 role: admin
 history:
+  - blog/tickets-sponsoren-weihnachten
   - teaser/sponsoren
   - tickets
   - teaser/das-barcamp
   - teaser
-  - infos/fuer-einsteiger
