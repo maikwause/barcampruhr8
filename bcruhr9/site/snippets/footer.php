@@ -5,14 +5,14 @@
 		<div class="top">
 			<h2><span>WIR FREUEN UNS AUF EUCH</span></h2>
 		</div>
+	</div>
+</footer>
+<footer id="footer2">
+	<div class="center">
 		<div class="bottom">
 			<p class="copyright">© BarCampRuhr 2016<br>Images CC Simon Bierwald</p>
-			<!-- SOCIAL ICONS -->
-			<ul class="social-icons list-inline">
-				<li class="twitter"><a href="https://twitter.com/BarcampRuhr">
-					<img src="<?php url('assets/images/icons/twitter.png')?>" alt=""></a>
-				</li>
-			</ul>
+			<p class="copyright"><a href="http://getkirby.com/made-with-kirby-and-love">Made with Kirby and <b>♥</b></a></p>
+			<p class="copyright"><a href="<?php echo url('kontakt/impressum') ?>">Impressum</a></p>
 		</div>
 	</div>
 </footer>
