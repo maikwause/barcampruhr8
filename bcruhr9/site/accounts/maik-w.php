@@ -7,8 +7,8 @@ password: >
 language: de
 role: admin
 history:
+  - sponsoren/iom
+  - sponsoren/netzkommune
   - kontakt/impressum
   - blog/tickets-sponsoren-weihnachten
   - teaser/sponsoren
-  - tickets
-  - teaser/das-barcamp
