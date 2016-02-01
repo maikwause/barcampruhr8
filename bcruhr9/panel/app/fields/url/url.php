@@ -1,6 +1,6 @@
 <?php
 
-class UrlField extends TextField {
+class UrlField extends InputField {
 
   public function __construct() {
 

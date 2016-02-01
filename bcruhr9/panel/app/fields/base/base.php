@@ -25,9 +25,7 @@ class BaseField {
   public $default;
   public $error = false;
   public $parentField = false;
-  public $page;
-  public $model;
-  
+
   public function root() {
     $obj = new ReflectionClass($this);
     return dirname($obj->getFileName());
@@ -41,14 +39,12 @@ class BaseField {
         return true;
       } else if(is_array($this->validate)) {
         foreach($this->validate as $validator => $options) {
-          if(!is_null($options)) {
-             if(is_numeric($validator)) {
-              $result = call('v::' . $options, $this->value());
-            } else {
-              $result = call('v::' . $validator, array($this->value(), $options));
-            }
-            if(!$result) return false;
+          if(is_numeric($validator)) {
+            $result = call('v::' . $options, $this->value());
+          } else {
+            $result = call('v::' . $validator, array($this->value(), $options));
           }
+          if(!$result) return false;
         }
         return true;
       } else {
@@ -95,15 +91,8 @@ class BaseField {
     if(empty($value)) {
       return null;
     } else if(is_array($value)) {
-      $translation = a::get($value, panel()->translation()->code());
-
-      if(empty($translation)) {
-        // try to fallback to the default language at least
-        $translation = a::get($value, kirby()->option('panel.language'), $this->name());
-      }
-
-      return $translation;
-    } else if(is_string($value) and $translation = l::get($value)) {
+      return a::get($value, panel()->language(), $this->name());
+    } else if($translation = l::get($value)) {
       return $translation;
     } else {
       return $value;
@@ -115,7 +104,7 @@ class BaseField {
 
     if(empty($this->icon)) {
       return null;
-    } else if($this->readonly() and empty($this->icon)) {
+    } else if($this->readonly()) {
       $this->icon = 'lock';
     }
 
@@ -196,11 +185,7 @@ class BaseField {
   }
 
   public function __toString() {
-    try {
-      return (string)$this->template();
-    } catch(Exception $e) {
-      die($e);
-    }
+    return (string)$this->template();
   }
 
 }
