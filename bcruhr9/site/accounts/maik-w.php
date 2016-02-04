@@ -7,8 +7,8 @@ password: >
 language: de
 role: admin
 history:
+  - sponsoren/lokalkompass
   - blog/weitere-tickets
   - tickets/teilnehmer
   - tickets
   - sponsoren/iom
-  - sponsoren/netzkommune

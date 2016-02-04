@@ -1,7 +1,3 @@
-Goldsponsor: 
-
-----
-
 Title: Lokalkompass
 
 ----
@@ -10,7 +6,7 @@ Text:
 
 ----
 
-Link: 
+Link: http://www.lokalkompass.de
 
 ----
 
