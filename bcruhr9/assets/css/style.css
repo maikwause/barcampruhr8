@@ -381,6 +381,11 @@ ul.nav li.dropdown:hover ul.dropdown-menu{
     font-weight: bold;
 }
 
+.table-striped > tbody > tr:nth-child(2n+1) > td, 
+.table-striped > tbody > tr:nth-child(2n+1) > th {
+    background-color: #ACACAC;
+}
+
 /*************************
 **** =archiv
 *************************/
