@@ -15,10 +15,6 @@
     			<?php endif ?>
 			</div>
 		<?php endforeach;?>
-			<div class="col-sm-4 sponsor become-sponsor">
-	            <a href="mailto:mail@barcamp.ruhr?subject=Premium-Sponsoring"><span>WERDE PREMIUM-SPONSOR</span></a>
-	        </div>    
-
 
 		</div>
     	<div class="row sponsors">
