@@ -7,8 +7,8 @@ password: >
 language: de
 role: admin
 history:
+  - blog/ein-zusatzkontingent
+  - infos/location
   - infos/agenda
   - sponsoren/rwe
   - sponsoren/lokalkompass
-  - blog/weitere-tickets
-  - tickets/teilnehmer
