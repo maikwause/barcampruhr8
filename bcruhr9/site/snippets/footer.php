@@ -32,5 +32,6 @@
 </script>
 <noscript><p><img src="//mcwiwa-services.de/stats/piwik.php?idsite=12" style="border:0;" alt="" /></p></noscript>
 <!-- End Piwik Code -->
+<!-- End Piwik Code -->
 </body>
 </html>
