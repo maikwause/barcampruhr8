@@ -2,7 +2,7 @@ Title: Tickets
 
 ----
 
-Text: Es wird noch eine letze Welle Zusatztickets geben, Supportertickets sind schon ausverkauft.
+Text: Es wird noch eine letze Welle Zusatztickets geben, wer sein Ticket abgeben will, geht zur (link:kontakt/ticketboerse text:Ticket-Börse).
 
 ----
 

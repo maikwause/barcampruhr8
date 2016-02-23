@@ -1,9 +1,13 @@
-Title: Hashtag
+Title: Empfang
 
 ----
 
-Text: Der Hashtag zur Veranstaltung lautet **#bcruhr9**. Bitte verwendet diesen bei Euren Social-Media-Aktivitäten
+Text: Wir brauchen -wie jedes Jahr- Eure Unterstützung am Empfang. Bitte tragt Euch ein, der Dienst tut nicht weh, sondern macht Spaß
 
 ----
 
-Link: 
+Link: infos/empfang
+
+----
+
+Linktitle: Zum Dienstplan am Empfang

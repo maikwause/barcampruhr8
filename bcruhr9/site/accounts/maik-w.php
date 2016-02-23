@@ -7,8 +7,8 @@ password: >
 language: de
 role: admin
 history:
-  - tickets
+  - teaser/hastag
+  - kontakt/mitfahrerboerse
+  - kontakt
   - teaser/tickets
-  - blog/ein-zusatzkontingent
-  - infos/location
-  - infos/agenda
+  - sponsoren/agile-ruhr
