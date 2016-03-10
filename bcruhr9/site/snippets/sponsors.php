@@ -19,21 +19,18 @@
 		</div>
     	<div class="row sponsors">
 		<?php 
-		$i = 1;
+		$i = 0;
 		foreach(page('sponsoren')->children()->visible()->filterBy('Goldsponsor','!=','gold') as $project): 
 		//vor dem 5. Element Reihenwechsel einbauen
-		e($i % 5 == 0, '</div><div class="row sponsors">') ?>
+		e($i % 4 == 0, '</div><div class="row sponsors">') ?>
 		<div class="col-sm-3 sponsor">
     		<?php if($image = $project->images()->sortBy('sort', 'asc')->first()): ?>
     		<a href="<?php echo $project->link() ?>">
-      			<img src="<?php echo $image->url() ?>" alt="<?php echo $project->title()->html() ?>" >
+      			<img src="<?php echo $image->url() ?>" alt="<?php echo $project->title()->html() ?>" ><?echo $i?>
     		</a>
 		</div>
 		    <?php endif ?>
 		<?php $i++; endforeach ?>
-			<div class="col-sm-3 sponsor become-sponsor">
-	            <a href="mailto:mail@barcamp.ruhr?subject=Basis-Sponsoring"><span>WERDE BASIS-SPONSOR</span></a>
-	        </div>
 	     <?php $i=$i+1;?>       
 		</div>
 	</div>
