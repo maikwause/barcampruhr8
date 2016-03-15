@@ -7,8 +7,8 @@ password: >
 language: de
 role: admin
 history:
+  - teaser/tickets
+  - blog/premium-sponsor-rwe
+  - sponsoren/brandwatch
+  - sponsoren/kreativekommunikationskonzepte
   - infos/empfang
-  - sponsoren/agile-ruhr
-  - teaser/hastag
-  - kontakt/mitfahrerboerse
-  - kontakt
