@@ -297,10 +297,10 @@ ul.nav li.dropdown:hover ul.dropdown-menu{
 	max-width: 520px;
 }
 
-.know-about-us .blog img {
+.know-about-us figure.blog img {
 	padding: 20px 0;
-	//width: 30%; 
-	//float: left;
+	width: 100%; 
+	float: none;
 	max-width: 520px;
 }
 
