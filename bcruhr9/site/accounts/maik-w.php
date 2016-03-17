@@ -7,8 +7,8 @@ password: >
 language: de
 role: admin
 history:
+  - blog/premium-sponsor-gls-bank
   - blog/premium-sponsor-rwe
   - teaser/tickets
   - sponsoren/brandwatch
   - sponsoren/kreativekommunikationskonzepte
-  - infos/empfang
