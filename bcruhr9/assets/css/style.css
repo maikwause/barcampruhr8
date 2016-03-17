@@ -292,6 +292,13 @@ ul.nav li.dropdown:hover ul.dropdown-menu{
 
 .know-about-us img {
 	padding: 20px 0;
+	width: 30%; 
+	float: left;
+	max-width: 520px;
+}
+
+.know-about-us .blog img {
+	padding: 20px 0;
 	//width: 30%; 
 	//float: left;
 	max-width: 520px;
