@@ -9,7 +9,7 @@ Date: 2016-03-15
 Text: 
 
 (image: kombi-logo.png)
-Dieses Jahr freuen wir uns, das erste mal RWE als Sponsor begrüßen zu dürfen. Der Essener Energieriese engagiert sich viel in der Region, fördert Kultur und Sport, und nun auch das Barcamp Ruhr als Premium Sponsor. Besonderes Augenmerk liegt dieses mal bei ihrem internen Startup lemonbeat, das sich mit Vernetzung im Internet of Things beschäftigt. Hier, in eigenen Worten, also lemonbeat:
+Dieses Jahr freuen wir uns, das erste mal (link: http://www.rwe.com text: RWE)als Sponsor begrüßen zu dürfen. Der Essener Energieriese engagiert sich viel in der Region, fördert Kultur und Sport, und nun auch das Barcamp Ruhr als Premium Sponsor. Besonderes Augenmerk liegt dieses mal bei ihrem internen Startup lemonbeat, das sich mit Vernetzung im Internet of Things beschäftigt. Hier, in eigenen Worten, also lemonbeat:
 
 ## Stellt Euch bitte kurz vor.
 
