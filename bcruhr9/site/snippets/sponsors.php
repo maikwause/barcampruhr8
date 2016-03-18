@@ -26,7 +26,7 @@
 		<div class="col-sm-3 sponsor">
     		<?php if($image = $project->images()->sortBy('sort', 'asc')->first()): ?>
     		<a href="<?php echo $project->link() ?>">
-      			<img src="<?php echo $image->url() ?>" alt="<?php echo $project->title()->html() ?>" ><?echo $i?>
+      			<img src="<?php echo $image->url() ?>" alt="<?php echo $project->title()->html() ?>" >
     		</a>
 		</div>
 		    <?php endif ?>
