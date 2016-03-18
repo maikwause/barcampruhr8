@@ -7,8 +7,9 @@ password: >
 language: de
 role: admin
 history:
+  - >
+    blog/communicode-der-dritte-premiumsponsor
   - blog/premium-sponsor-rwe
   - blog/premium-sponsor-gls-bank
   - teaser/tickets
   - sponsoren/brandwatch
-  - sponsoren/kreativekommunikationskonzepte
