@@ -7,9 +7,9 @@ password: >
 language: de
 role: admin
 history:
+  - blog/teamendspurt-informiert
+  - blog/liebe-fuer-sponsoren
   - >
     blog/communicode-der-dritte-premiumsponsor
   - blog/premium-sponsor-rwe
   - blog/premium-sponsor-gls-bank
-  - teaser/tickets
-  - sponsoren/brandwatch
