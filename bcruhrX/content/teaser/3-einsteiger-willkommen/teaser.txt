@@ -1,0 +1,13 @@
+Title: Einsteiger willkommen
+
+----
+
+Text: Mache das barcamp.ruhr zu Deinem allerersten Barcamp! Wir freuen uns auf Einsteiger!
+
+----
+
+Link: infos/fuer-einsteiger
+
+----
+
+Linktitle: Mehr Infos für Einsteiger

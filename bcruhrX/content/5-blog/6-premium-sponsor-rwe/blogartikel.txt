@@ -1,0 +1,30 @@
+Title: RWE als Premium-Sponsor
+
+----
+
+Date: 2016-03-15
+
+----
+
+Text: 
+
+(image: kombi-logo.png class:blog)
+Dieses Jahr freuen wir uns, das erste mal (link: http://www.rwe.com text: RWE)als Sponsor begrüßen zu dürfen. Der Essener Energieriese engagiert sich viel in der Region, fördert Kultur und Sport, und nun auch das Barcamp Ruhr als Premium Sponsor. Besonderes Augenmerk liegt dieses mal bei ihrem internen Startup lemonbeat, das sich mit Vernetzung im Internet of Things beschäftigt. Hier, in eigenen Worten, also lemonbeat:
+
+## Stellt Euch bitte kurz vor.
+
+Wir sind ein "corporate startup" aus dem Umfeld von RWE.  Wir bieten ein sicheres, modulares, schnell implementierbares Kommunikationsprotokoll an, um intelligente Vernetzung von Devices innerhalb IoT zu ermöglichen.
+
+## Was ist Eure Motivation, das barcamp.ruhr zu unterstützen?
+
+Wir wollen neben unserem internationalen Geschäft ein regionales Netzwerk aufbauen, wollen Aufmerksamkeit für unsere Lösungen schaffen und auch unsere Konzepte für Entwickler-Produkte mit Bastler*innen austesten.
+
+## Was verbindet Euch mit der Region?
+
+Wir wohnen alle in NRW, sind in Dortmund angefangen, und ziehen bald in der Hammerkopfturm in Dortmund Eving ein.
+
+## Wo seht Ihr kritische Entwicklungen in Bezug auf Ausspähen und Überwachen von Bürgern? Was sind Eure Hoffnungen für die Zukunft?
+
+Lemonbeat bietet selber keine Enduser Geräte an, von daher ist Ausspähen und Überwachen für unsere Arbeit nicht so relevant.  Wir wollen aber mit Daten sicher umgehen, vor allem in neuen Märkten wie "Smart" und "IoT" wo Sicherheitslücken schnell Marktwachstum beenden können.  Wir haben bei RWE SmartHome (dem ersten System mit Lemonbeat inkludiert) immer Wert drauf gelegt, mit Lemonbeat ist es genauso.  Egal was der Nutzer*in am Ende entscheidet, der Datentransfer von Gerät zu Gerät sollte immer sicher sein.  Deswegen bieten wir 128 bit AES MAC layer Sicherheit mit ein sicheren Schlüsselaustausch bei unserem Produkt an.
+
+In der Quintessenz glauben wir, dass jeder Nutzer*in über seine Daten selbst bestimmen soll.

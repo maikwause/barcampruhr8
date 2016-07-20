@@ -1,0 +1,13 @@
+Title: Berichte zum Barcamp
+
+----
+
+Text: Die Sammlung der Berichte und Folien zum #bcruhr9
+
+----
+
+Link: infos/berichte-und-artikel
+
+----
+
+Linktitle: Berichtsübersicht

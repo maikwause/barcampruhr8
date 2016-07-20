@@ -1,0 +1,14 @@
+Title: Impressum
+
+----
+
+Text: 
+
+# Impressum
+
+verantwortlich im Sinne des §5 TMG:
+
+Berthold Bart
+Michaelstr. 30
+45138  Essen
+(email: mail@barcamp.ruhr text: mail@barcamp.ruhr)

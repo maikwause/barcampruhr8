@@ -1,0 +1,13 @@
+Title: Tickets
+
+----
+
+Text: Tickets sind ausverkauft, wer noch Tickets suchtoder sein Ticket abgeben will, geht zur (link:kontakt/ticketboerse text:Ticket-Börse).
+
+----
+
+Link: 
+
+----
+
+Linktitle: 
