@@ -7,8 +7,8 @@ password: >
 language: de
 role: admin
 history:
+  - archiv
+  - archiv/bcruhr8
+  - blog
+  - kontakt
   - infos/berichte-und-artikel
-  - teaser/berichte-zum-barcamp
-  - teaser/sponsorenliebe
-  - teaser/die-gewesenen-sessions
-  - infos/sessionboards

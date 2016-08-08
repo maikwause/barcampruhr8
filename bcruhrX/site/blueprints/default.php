@@ -10,3 +10,6 @@ fields:
   text:
     label: Text
     type:  textarea
+  ext_url:
+    label: external URL (dominant)
+    type:  page
