@@ -22,7 +22,7 @@
 <body>
 	<header id="header">
 		<div class="center">
-			<?php snippet('menu') ?>            
+			<?php// snippet('menu') ?>            
 			<img src="<?php echo url('assets/images/bcr9-logo.png');?>" alt="barcamp logo">
 			<h3><span>JUBILÄUM: FRÜHER WAR ALLES BESSER</span><br><span>UNPERFEKTHAUS ESSEN; 25./26. März 2017<br>&nbsp; #bcruhrX &nbsp;</span></h3>
 			<a href="#signup" class="btn btn-primary btn-red btn-red-small">Für Newsletter anmelden</a>
