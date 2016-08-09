@@ -10,7 +10,7 @@
 <footer id="footer2">
 	<div class="center">
 		<div class="bottom">
-			<p class="copyright">© BarCampRuhr 2016<br>Images CC Simon Bierwald</p>
+			<p class="copyright">© BarCampRuhr 2016<br>Headerbild <a href="http://steadynews.de">steadynews.de</a>a></p>
 			<p class="copyright"><a href="http://getkirby.com/made-with-kirby-and-love">Made with Kirby and <b>♥</b></a></p>
 			<p class="copyright"><a href="<?php echo url('kontakt/impressum') ?>">Impressum</a></p>
 		</div>
