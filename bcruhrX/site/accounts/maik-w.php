@@ -7,8 +7,8 @@ password: >
 language: de
 role: admin
 history:
+  - sponsoren/agile-ruhr
   - archiv
   - archiv/bcruhr8
   - blog
   - kontakt
-  - infos/berichte-und-artikel
