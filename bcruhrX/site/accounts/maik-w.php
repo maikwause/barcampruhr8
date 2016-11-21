@@ -7,6 +7,7 @@ password: >
 language: de
 role: admin
 history:
+  - tickets
   - kontakt/organisatoren
   - archiv/bcruhr9
   - archiv/bcruhr8
