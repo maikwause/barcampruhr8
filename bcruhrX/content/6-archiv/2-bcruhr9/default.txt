@@ -3,3 +3,7 @@ Title: bcruhr9
 ----
 
 Text: 
+
+----
+
+Ext-url: http://barcamp.ruhr/bcruhr9

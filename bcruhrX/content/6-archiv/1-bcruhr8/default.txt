@@ -6,4 +6,4 @@ Text:
 
 ----
 
-Ext-url: http://www.barcamp.ruhr/bcruhr8
+ext_url: http://barcamp.ruhr/bcruhr8
