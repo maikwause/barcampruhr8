@@ -7,8 +7,7 @@ password: >
 language: de
 role: admin
 history:
-  - archiv/bcruhr10
+  - kontakt/organisatoren
   - archiv/bcruhr9
   - archiv/bcruhr8
   - blog/save-the-date-bcruhrx
-  - kontakt/organisatoren
