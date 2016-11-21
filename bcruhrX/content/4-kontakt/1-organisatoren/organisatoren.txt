@@ -5,13 +5,13 @@ Title: Organisatoren
 Text: 
 
 # Organisatoren
-Das barcamp.ruhr 9 wird veranstaltet von
+Das barcamp.ruhr X wird veranstaltet von
 <div class="orgainfo clearfix">
 (image: berthold.png)
 <div class="text">  
 <h2> Berthold Barth</h2>
 <p>
-ist Agile Coach bei der communicode AG in Essen und verantwortet dort die Einführung und Verbesserung Agiler Methoden und Werte. Neben dem barcamp.ruhr organisiert er das kickstarter camp (23./24. Januar im UPH) und das agile.ruhr camp (23./24. April im UPH).
+ist Agile Coach bei der communicode AG in Essen und verantwortet dort die Einführung und Verbesserung Agiler Methoden und Werte. Neben dem barcamp.ruhr organisiert er das agile.ruhr camp (22./23. April im UPH).
 </p>
 <p>
 (link: https://twitter.com/bertholdb text: Twitter), (link: https://www.facebook.com/berthold.barth text: Facebook), (link: https://www.xing.com/profile/Berthold_Barth text: Xing), (link: http://de.linkedin.com/pub/berthold-barth/56/a14/b91/de text: LinkedIn)
@@ -29,3 +29,7 @@ lebt und arbeitet in Essen. 1999 gründete er die mcwiwa consulting, die bis heu
 </p>
 </div>
 </div>
+
+----
+
+Ext-url: 
