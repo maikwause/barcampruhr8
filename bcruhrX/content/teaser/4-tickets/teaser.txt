@@ -2,7 +2,7 @@ Title: Tickets
 
 ----
 
-Text: Tickets sind ausverkauft, wer noch Tickets suchtoder sein Ticket abgeben will, geht zur (link:kontakt/ticketboerse text:Ticket-Börse).
+Text: Es werden noch weiter Tickets verkauft werden, eine neue Ticketwelle ist in Vorbereitung.
 
 ----
 

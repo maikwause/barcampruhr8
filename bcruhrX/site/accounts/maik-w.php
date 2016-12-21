@@ -7,8 +7,8 @@ password: >
 language: de
 role: admin
 history:
+  - tickets
+  - teaser/tickets
   - kontakt/mitfahrerboerse
   - infos/empfang
   - kontakt/ticketboerse
-  - tickets/teilnehmer
-  - blog/tickets-tickets-tickets
