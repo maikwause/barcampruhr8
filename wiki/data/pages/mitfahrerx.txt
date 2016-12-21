@@ -1,0 +1,16 @@
+Wer sucht oder bietet noch Plätze in Auto, Bahn, Fahrrad oder Flugzeug an?
+
+==== Ich biete ====
+
+					
+
+|**Abfahrtsort**|**Abfahrtszeit** |**Verkehrsmittel** |**freie Plätze** |**Kontaktmöglichkeit** | **Bemerkungen**|
+| | | | | | |
+| | | | | | |
+
+
+==== Ich suche ====
+
+|**Gegend**|**Abfahrtszeit** |**Verkehrsmittel** |**freie Plätze** |**Kontaktmöglichkeit** | **Bemerkungen**|
+| | | | | | |
+| | | | | | |

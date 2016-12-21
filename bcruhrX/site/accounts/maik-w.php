@@ -7,8 +7,8 @@ password: >
 language: de
 role: admin
 history:
+  - kontakt/mitfahrerboerse
+  - infos/empfang
+  - kontakt/ticketboerse
   - tickets/teilnehmer
   - blog/tickets-tickets-tickets
-  - tickets
-  - kontakt/organisatoren
-  - archiv/bcruhr9
