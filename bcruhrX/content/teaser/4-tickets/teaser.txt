@@ -2,7 +2,7 @@ Title: Tickets
 
 ----
 
-Text: Es werden noch weiter Tickets verkauft werden, eine neue Ticketwelle ist in Vorbereitung.
+Text: Es werden noch weiter Tickets verkauft werden, eine (link:/tickets/ text:neue Ticketwelle) ist in Vorbereitung.
 
 ----
 
