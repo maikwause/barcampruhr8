@@ -7,8 +7,9 @@ password: >
 language: de
 role: admin
 history:
-  - tickets
   - teaser/tickets
+  - tickets
+  - sponsoren/gls-bank
+  - >
+    blog/weihnachten-kommt-die-zweite-ticketwelle-auch
   - kontakt/mitfahrerboerse
-  - infos/empfang
-  - kontakt/ticketboerse
