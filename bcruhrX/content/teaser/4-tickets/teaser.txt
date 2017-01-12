@@ -2,7 +2,7 @@ Title: Tickets
 
 ----
 
-Text: Die nächste (link:/tickets/ text:Ticketwelle) kommt am 11.1.
+Text: Weitere Tickets sind in Vorbereitung, der (link:#signup text:Newsletter) informiert immer rechtzeitig.
 
 ----
 

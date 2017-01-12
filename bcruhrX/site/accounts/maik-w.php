@@ -7,9 +7,9 @@ password: >
 language: de
 role: admin
 history:
-  - sponsoren/waz
   - tickets
   - teaser/tickets
+  - sponsoren/waz
   - sponsoren/gls-bank
   - >
     blog/weihnachten-kommt-die-zweite-ticketwelle-auch
