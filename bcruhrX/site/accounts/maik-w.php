@@ -7,9 +7,8 @@ password: >
 language: de
 role: admin
 history:
+  - sponsoren/agile-ruhr
+  - infos/agenda
   - tickets
   - teaser/tickets
   - sponsoren/waz
-  - sponsoren/gls-bank
-  - >
-    blog/weihnachten-kommt-die-zweite-ticketwelle-auch
