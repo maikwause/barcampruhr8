@@ -7,8 +7,8 @@ password: >
 language: de
 role: admin
 history:
+  - teaser/tickets
+  - tickets
   - sponsoren/agile-ruhr
   - infos/agenda
-  - tickets
-  - teaser/tickets
   - sponsoren/waz
