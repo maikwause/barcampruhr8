@@ -31,18 +31,19 @@ Wir haben die ersten Fragen, von denen wir glauben, dass sie Einsteiger am Ehest
 						<dd class="panel-collapse collapse" id="f2">
 							Auch das ist Teil der Barcamp-Philosophie, das Barcamp soll für jeden zugänglich sein, unabhängig von den finanziellen Mitteln, der Austausch auf Augenhöhe steht im Vordergrund. Ziel ist, dass jeder Teilnehmer, auch wir Organisatoren, etwas lernt und mit nach Hause nimmt. Angefangen von Kontakten bis hin zu ganz konkreten Ideen.
 						</dd>
-<!--
+						<dt><a href="#f13" data-parent="#faq" data-toggle="collapse" class="collapsed">Warum soll sich jeder am Anfang vorstellen? Das dauert doch ewig?!</a></dt>
+						<dd class="panel-collapse collapse" id="f13">
+							Welche Vorteile eine Vorstellungsrunde hat, auch bei BarCamps bis 2oo Leuten hat das (link:http://barcamp-koblenz.de/warum-muss-sich-bei-einem-barcamp-eigentlich-jeder-vorstellen/ text:BarCamp Koblenz) letztens sehr schön erklärt. Dem ist nichts hinzuzufügen.
+						</dd>
 						<dt><a href="#f11" data-parent="#faq" data-toggle="collapse" class="collapsed">Ich kann doch nicht kommen, kann ich mein Ticket zurückgeben?</a></dt>
 						<dd class="panel-collapse collapse" id="f11">
-							Nein, eine Rückgabe des Tickets ist nicht vorgesehen, du kannst es aber an eine weitere Person weitergeben. Wir haben dafür eine <a href="https://docs.google.com/spreadsheets/d/1PrLeKV1RUnP8qvNbIv3fc1Fek1IzIKIOFsf4jDLkcho/edit?usp=sharing">Ticket-Tauschbörse</a> eingerichtet, trag dort einfach Dein Ticket ein.	Wenn es einen Nachfolger gibt, schreibe eine Mail mit den Daten des alten und des neuen Ticketbesitzers an <a href="mailto:mail@barcamp.ruhr">mail@barcamp-ruhr</a>, damit wir das Ticket umtragen können. 
+							Nein, eine Rückgabe des Tickets ist nicht vorgesehen, du kannst es aber an eine andere Person weitergeben. Wir haben dafür eine (link:/kontakt/ticketboerse text:Ticket-Tauschbörse) eingerichtet, trag dort einfach Dein Ticket ein. 
+Wenn es einen Nachfolger gibt, schreibe eine Mail mit den Daten des alten und des neuen Ticketbesitzers an <a href="mailto:mail@barcamp.ruhr">mail@barcamp-ruhr</a>, damit wir das Ticket umtragen können. 
 						</dd>
--->
-<!--
 						<dt><a href="#f12" data-parent="#faq" data-toggle="collapse" class="collapsed">Ich habe noch Plätze im Auto frei / ich möchte nicht allein anreisen, wo kann man sich koordinieren?</a></dt>
 						<dd class="panel-collapse collapse" id="f12">
-							Wir habe ein offenes <a href="https://docs.google.com/spreadsheets/d/1zXKnJcfdRyspHXMAMRgGiLdiYH8VIoxyxu217rb7ckk/edit#gid=0">Google-Doc</a> eingerichtet, in das man seinen freien Plätze im Auto oder seine Zugverbindung eintragen kann, um Mitfahrer oder gemeinsame Zugfahrer zuu finden.							
+							Wir habe eine(link:/kontakt/mitfahrerboerse text:Mitfahrerbörse im Wiki) eingerichtet, in die man seinen freien Plätze im Auto oder seine Zugverbindung eintragen kann, um Mitfahrer oder gemeinsame Zugfahrer zu finden.							
 						</dd>
--->
 						<dt><a href="#f10" data-parent="#faq" data-toggle="collapse" class="collapsed">Es gibt Barcamp-Regeln?</a></dt>
 						<dd class="panel-collapse collapse" id="f10">
 							Ja, gibt es:
@@ -77,3 +78,7 @@ Wir haben die ersten Fragen, von denen wir glauben, dass sie Einsteiger am Ehest
 					</dl>
 </div>
 Sind noch mehr Fragen offen? (email: mail@barcamp.ruhr text: Immer her damit)!
+
+----
+
+Ext-url: 
