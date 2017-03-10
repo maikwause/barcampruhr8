@@ -7,8 +7,8 @@ password: >
 language: de
 role: admin
 history:
+  - sponsoren/etrado
   - infos/fuer-einsteiger
   - teaser/tickets
   - tickets
   - sponsoren/agile-ruhr
-  - infos/agenda
