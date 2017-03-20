@@ -2,7 +2,7 @@ Title: Tickets
 
 ----
 
-Text: Weitere Tickets sind in Vorbereitung, am 3.3. um 11:00 Uhr rollt die nächste (link: tickets text:Ticketwelle).
+Text: Tickets nur noch über die (link:kontakt/ticketboerse text:Tauschbörse).
 
 ----
 
