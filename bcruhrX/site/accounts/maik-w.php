@@ -7,9 +7,9 @@ password: >
 language: de
 role: admin
 history:
+  - infos/location
   - blog/letzte-tipps-und-hinweise
   - >
     blog/weitere-tickets-beliebte-wiki-bereiche
   - tickets
   - teaser/tickets
-  - sponsoren/etrado
