@@ -7,8 +7,9 @@ password: >
 language: de
 role: admin
 history:
+  - blog/letzte-tipps-und-hinweise
+  - >
+    blog/weitere-tickets-beliebte-wiki-bereiche
   - tickets
   - teaser/tickets
   - sponsoren/etrado
-  - infos/fuer-einsteiger
-  - sponsoren/agile-ruhr
