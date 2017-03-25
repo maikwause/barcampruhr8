@@ -3,3 +3,7 @@ Title: Blog zum barcamp.ruhr X
 ----
 
 Text: Aktuelles zum und rund um das barcamp.ruhr X
+
+----
+
+Ext-url: 

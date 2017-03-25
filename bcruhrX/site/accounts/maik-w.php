@@ -7,9 +7,8 @@ password: >
 language: de
 role: admin
 history:
+  - blog
+  - blog/sponsorenliebe
+  - infos/sessionboards
+  - infos/berichte-und-artikel
   - infos/location
-  - blog/letzte-tipps-und-hinweise
-  - >
-    blog/weitere-tickets-beliebte-wiki-bereiche
-  - tickets
-  - teaser/tickets
