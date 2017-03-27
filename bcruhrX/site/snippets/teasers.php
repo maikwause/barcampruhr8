@@ -1,6 +1,6 @@
 <section class="know-about-us">
 	<div class="center">
-    	<h1>Das erwartet Euch:</h1>
+    	<h1>So war das barcamp.ruhrX:</h1>
 		<div class="row">
 		<?php
 		foreach(page('teaser')->children()->visible() as $tea):?>
