@@ -7,8 +7,8 @@ password: >
 language: de
 role: admin
 history:
+  - archiv/bcruhrx
+  - archiv
+  - blog/save-the-date-bcruhrx
   - blog
   - home
-  - teaser/sponsorenliebe
-  - teaser/berichte-zum-barcamp
-  - blog/sponsorenliebe
