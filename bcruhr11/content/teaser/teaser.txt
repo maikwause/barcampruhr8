@@ -1,0 +1,13 @@
+Title: Teaser
+
+----
+
+Text: Alle Berichte, Fotos, etc zum Barcamp
+
+----
+
+Link: infos/berichte-und-artikel
+
+----
+
+Linktitle: Zu den Berichten

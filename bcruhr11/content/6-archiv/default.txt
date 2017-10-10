@@ -1,0 +1,17 @@
+Title: Archiv
+
+----
+
+Text: 
+
+#ARCHIV
+Hier sammeln wir Infos und Notizen, Berichte und Fotos von vergangenen Barcamps Ruhr.
+
+Ihr könnt Euch ansehen, was beim
+* (link: ../../bcruhr8 text: barcamp.ruhr 8)
+* (link: ../../bcruhr9 text:barcamp.ruhr 9)
+war
+
+----
+
+Ext-url: 
