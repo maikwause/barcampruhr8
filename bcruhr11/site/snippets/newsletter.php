@@ -23,7 +23,7 @@
     								<div class="clear"><input type="submit" value="Eintragen" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
     						</div>
 						</form>
-						<p>Zur Erfüllung dieses Verteilers verwenden wir Mailchimp, dessen Privacy Policy Ihr <a href="http://mailchimp.com/legal/privacy/">hier</a> einsehen könnt. Euer Emails werden von uns ausschliesslich zur Information um und über das barcamp.ruhr X genutzt und nicht an Dritte weitergegeben.</p>
+						<p>Zur Erfüllung dieses Verteilers verwenden wir Mailchimp, dessen Privacy Policy Ihr <a href="http://mailchimp.com/legal/privacy/">hier</a> einsehen könnt. Euer Emails werden von uns ausschliesslich zur Information um und über das barcamp.ruhr 11 genutzt und nicht an Dritte weitergegeben.</p>
 					</div>
 					<!--End mc_embed_signup-->
 				</p>
