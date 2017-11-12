@@ -5,7 +5,7 @@ Title: Location
 Text: 
 
 # Location
-Das barcamp.ruhr X findet statt im
+Das barcamp.ruhr 11 findet statt im
 **Unperfekthaus Essen
 Friedrich-Ebert-Str. 18
 45127 Essen**
