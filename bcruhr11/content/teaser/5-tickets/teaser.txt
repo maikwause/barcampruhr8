@@ -1,0 +1,13 @@
+Title: Tickets
+
+----
+
+Text: Tickets gibt es bald! Die nächste Ticketwelle startet am 16.11. um 13:30 Uhr.
+
+----
+
+Link: tickets
+
+----
+
+Linktitle: Zum Ticketverkauf
