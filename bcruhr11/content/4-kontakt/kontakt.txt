@@ -5,12 +5,12 @@ Title: Vernetzen
 Text: 
 
 # Vernetzt Euch
-Vernetzt Euch wie die Wilden mit dem barcamp.ruhr X, wir haben 
+Vernetzt Euch wie die Wilden mit dem barcamp.ruhr 11, wir haben 
 * (link: https://twitter.com/barcampruhr text: ein Twitter-Account)
 * (link: https://www.facebook.com/events/950755531637877/ text: ein Facebook-Event)
 * (link: https://www.xing.com/communities/groups/barcamp-punkt-ruhr-c73e-1075474 text: eine Xing-Gruppe)
 
-gerne dürft Ihr Euch auch bei //TODO Lanyrd eintragen oder Euch mit den (link: kontakt/organisatoren text: Organisatoren) vernetzen.
+gerne dürft Ihr Euch auch mit den (link: kontakt/organisatoren text: Organisatoren) vernetzen.
 <!--
 Vernetzt Euch auch untereinander, wir haben Euch eine (link:kontakt/ticketboerse text:Ticketbörse) und eine (link:kontakt/mitfahrerboerse text:Mitfahrer-Börse) eingerichtet.
 -->
