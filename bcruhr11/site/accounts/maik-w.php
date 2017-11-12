@@ -7,8 +7,8 @@ password: >
 language: de
 role: admin
 history:
-  - home
-  - archiv/bcruhrx
-  - archiv
-  - blog/save-the-date-bcruhrx
-  - blog
+  - teaser/tickets
+  - teaser/das-barcamp
+  - kontakt/impressum
+  - kontakt/organisatoren
+  - tickets

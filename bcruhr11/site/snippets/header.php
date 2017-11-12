@@ -22,7 +22,7 @@
 <body>
 	<header id="header">
 		<div class="center">
-			<?php //snippet('menu') ?>            
+			<?php snippet('menu') ?>            
 			<img src="<?php echo url('assets/images/bcr11-logo.png');?>" alt="barcamp logo">
 			<h3><span>Sex & Tweets & Rock'n'Roll</span><br><span>UNPERFEKTHAUS ESSEN; 24./25. März 2018<br>&nbsp; #bcruhr11 &nbsp;</span></h3>
 			<a href="#signup" class="btn btn-primary btn-red btn-red-small">Für Newsletter anmelden</a>
