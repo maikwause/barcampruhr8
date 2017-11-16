@@ -8,11 +8,11 @@
 	<meta name="keywords" content="<?php echo $site->keywords()->html() ?>">
 	<?php echo css('assets/css/bootstrap.min.css') ?>
 	<?php echo css('assets/css/style.css') ?>
-	<link href='http://fonts.googleapis.com/css?family=Lato:400,700,900' rel='stylesheet' type='text/css'>
-	<?php echo js('http://code.jquery.com/jquery.js'); ?>
+	<link href='https://fonts.googleapis.com/css?family=Lato:400,700,900' rel='stylesheet' type='text/css'>
+	<?php echo js('https://code.jquery.com/jquery.js'); ?>
 	<?php echo js('assets/js/bootstrap.min.js');?>
 	<!--[if lt IE 9]>
-	<?php echo js('http://html5shim.googlecode.com/svn/trunk/html5.js');?>
+	<?php echo js('https://html5shim.googlecode.com/svn/trunk/html5.js');?>
 	<?php echo js('assets/js/respond.min.js');?>
 	<?php echo js('assets/js/PIE.min.js');?>
 	<![endif]-->
