@@ -11,4 +11,3 @@ history:
   - teaser/das-barcamp
   - kontakt/impressum
   - kontakt/organisatoren
-  - tickets
