@@ -7,7 +7,8 @@ password: >
 language: de
 role: admin
 history:
+  - sponsoren/sipgate
+  - sponsoren/lvq
+  - sponsoren/swyx
+  - sponsoren
   - teaser/tickets
-  - teaser/das-barcamp
-  - kontakt/impressum
-  - kontakt/organisatoren
