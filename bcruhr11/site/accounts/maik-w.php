@@ -7,8 +7,8 @@ password: >
 language: de
 role: admin
 history:
+  - tickets
   - blog/tickets-sponsoren-weihnachten
   - sponsoren/sipgate
   - sponsoren/lvq
   - sponsoren/swyx
-  - sponsoren
