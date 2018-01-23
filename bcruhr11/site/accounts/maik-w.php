@@ -7,8 +7,8 @@ password: >
 language: de
 role: admin
 history:
+  - tickets
+  - teaser/tickets
   - blog/frohes-neues-und-noch-mehr-tickets
   - sponsoren/lvq
-  - tickets
   - blog/tickets-sponsoren-weihnachten
-  - sponsoren/sipgate
