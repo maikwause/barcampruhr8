@@ -7,8 +7,8 @@ password: >
 language: de
 role: admin
 history:
+  - sponsoren/bambule-webdesign
+  - sponsoren/waz
   - tickets
   - teaser/tickets
   - blog/frohes-neues-und-noch-mehr-tickets
-  - sponsoren/lvq
-  - blog/tickets-sponsoren-weihnachten
