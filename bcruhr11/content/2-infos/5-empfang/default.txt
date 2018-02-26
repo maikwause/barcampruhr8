@@ -10,7 +10,7 @@ Schön, das Ihr Euch einbringt. Tragt gerne (Spitz-) Namen und/oder Twitter-Hand
 Aufgaben: Besucherlisten abhaken, Lanyards und Zettel ausgeben und Fragen zum BCR und UPH beantworten. Und bei Selfies helfen ;)							
 
 <div style="width:100%; text-align:left;" >
-<iframe  src="../../wiki/doku.php?id=empfangX#empfang_samstag" frameborder="0" height="668" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true">
+<iframe  src="../../wiki/doku.php?id=empfang11#empfang_samstag" frameborder="0" height="668" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true">
 </iframe>
 </div>
 

@@ -9,7 +9,7 @@ Text:
 Bitte meldet Euch selbst bei den anderen Teilnehmern und schickt uns eine Nachricht an <mail@barcamp.ruhr> damit wir Tickets umschreiben können.
 
 <div style="width:100%; text-align:left;" >
-<iframe  src="../../wiki/doku.php?id=ticketboerseX#ich_biete" frameborder="0" height="468" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true">
+<iframe  src="../../wiki/doku.php?id=ticketboerse11#ich_biete" frameborder="0" height="468" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true">
 </iframe>
 </div>
 

@@ -9,7 +9,7 @@ Text:
 schließt Euch untereinander kurz, wenn Ihr nicht alleine an- und abreisen wollt:
 
 <div style="width:100%; text-align:left;" >
-<iframe  src="../../wiki/doku.php?id=mitfahrerx#ich_biete" frameborder="0" height="468" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true">
+<iframe  src="../../wiki/doku.php?id=mitfahrer11#ich_biete" frameborder="0" height="468" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true">
 </iframe>
 </div>
 
