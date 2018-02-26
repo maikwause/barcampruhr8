@@ -1,7 +1,7 @@
 <section class="our-sponsors" id="sponsors">
 	<div class="center">
     	<h2>UNSERE SPONSOREN</h2>
-    	<p>Ein großes "Dankeschön" an unsere großartigen barcamp.ruhr X Sponsoren!</p>
+    	<p>Ein großes "Dankeschön" an unsere großartigen barcamp.ruhr 11 Sponsoren!</p>
 		<div class="row sponsors">
 		<?php
 		//Alle Sponsoren mit Gold-Status ausfiltern
@@ -15,10 +15,11 @@
     			<?php endif ?>
 			</div>
 		<?php endforeach;?>
+		<!--
 			<div class="col-sm-4 sponsor become-sponsor">
                 <a href="mailto:mail@barcamp.ruhr?subject=Premium-Sponsoring"><span>WERDE PREMIUM-SPONSOR</span></a>
             </div>    
-
+		-->
 
 		</div>
     	<div class="row sponsors">
@@ -35,10 +36,11 @@
 		</div>
 		    <?php endif ?>
 		<?php $i++; endforeach ?>
+			<!--
 			<div class="col-sm-3 sponsor become-sponsor">
                 <a href="mailto:mail@barcamp.ruhr?subject=Basis-Sponsoring"><span>WERDE BASIS-SPONSOR</span></a>
             </div>    
-
+			-->
 	     <?php $i=$i+1;?>       
 		</div>
 	</div>
