@@ -7,8 +7,8 @@ password: >
 language: de
 role: admin
 history:
+  - infos/sessionboards
   - teaser/sponsorenliebe
   - teaser/berichte-zum-barcamp
   - blog
   - blog/sponsorenliebe
-  - infos/sessionboards
