@@ -7,8 +7,8 @@ password: >
 language: de
 role: admin
 history:
+  - infos/location
   - sponsoren/vorwerk
   - sponsoren/sipgate
   - teaser/tickets
   - tickets
-  - sponsoren/expositio
