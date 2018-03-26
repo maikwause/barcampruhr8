@@ -7,10 +7,9 @@ password: >
 language: de
 role: admin
 history:
+  - teaser/berichte-zum-barcamp
+  - infos/sessionboards
+  - infos/berichte-und-artikel
+  - blog/sponsorenliebe
   - >
     blog/letzte-hinweise-vom-teamendspurt-wir-freuen-uns-auf-euch
-  - >
-    blog/noch-einmal-tickets-erste-technische-hinweise
-  - infos/location
-  - sponsoren/vorwerk
-  - sponsoren/sipgate
