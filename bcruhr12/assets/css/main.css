@@ -11,7 +11,7 @@
    ========================================================================== */
 
 html {
-    color: #000;
+    color: #222;
     font-size: 1em;
     line-height: 1.4;
 }
@@ -96,77 +96,66 @@ textarea {
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
+    @import url('https://fonts.googleapis.com/css?family=Droid+Sans:400,700');
+    @import url('https://fonts.googleapis.com/css?family=Montserrat:400,700');
 
-	html {
-	  height: 101%;
-	  font-family: Arial, sans-serif;
-      font-style: normal;
-      font-weight: 300;
-	  -webkit-text-size-adjust: 100%;
-	  -ms-text-size-adjust: 100%;
-      background-color: #DBDBDB;
-	}
-
-    h1,h2, h3{
-        font-weight: normal;
+    html{
+		height: 101%;
+    	font-family: "Droid Sans", Arial, Helvetica, sans-serif;
+		-webkit-text-size-adjust: 100%;
+		-ms-text-size-adjust: 100%;
+		background-color: #DBDBDB;
     }
 
-    img {
-        display: block;
-        max-width: 100%;
-    }
-
-
-    a:focus{
-        outline: 1px solid #5DC127;
-    }
-
-    header{
-        background-image: url("../images/BcruhrTitel.png");
-        min-height: 517px;
-        border-top: 5px solid #5DC127;
-    }
-
-    #relevanz{
-        position: absolute;
-        bottom: 90px;
-        font-size: 1.8em;
+    h2 {
+        font-family: 'Montserrat', Arial, sans-serif; 
+        font-size: 42px;
         font-weight: bold;
-        padding: 0.4em 0;
-        min-width: 1000px;
         text-align: center;
-        background-color: #5DC127;
-        color: #FFF;
-    }    
+        color: #5DC127;
+        text-transform: uppercase;
+    }      
 
-	#page, #colophon{
-		margin: 0 auto;
-        max-width: 998px;
-        padding: 0;
+   	#page{
+   		margin: 0 auto;
+    	width: 80%;
         background-color: #FFF;
 
-	}
-    #page{
-        min-height: 1200px;
-    }
+   	}
 
+    header{
+
+    	border-top: 6px solid #5DC127;
+ 	    background: url(../images/../images/bcruhr12.jpg) no-repeat top center;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+         -o-background-size: cover;
+            background-size: cover;
+    	text-align: center;
+        width: 100%;
+        padding-bottom: 2px;
+    }
     /* Header mit Menü */
 
     .menu{
         float: right;
         padding-top: 2em;
+        padding-right: 5em;
     }
 
     .menu li{
+        font-family: 'Montserrat', Arial, sans-serif; 
         display: inline;
         list-style-type: none;
         padding-right: 0.4em;
-        text-transform: uppercase;
-        font-weight: bold;
+        font-weight: normal;
     }
 
     .menu li:last-child{
-        padding-right: 1.9em;
+        padding: 0.6em 1.4em;
+        border-radius: 100px;
+		background-color: #f5a623;
+		margin-right: 2em;
     }
 
     .menu li a{
@@ -178,248 +167,164 @@ textarea {
     .menu li a:focus,
     .menu li a.active, 
     .menu li em{
-        color: #5DC127  ;
+        color: #5DC127;
         font-style: normal;
     }
 
-
-    .action, .menu li a.action{
-        color: #FFF;
-        background-color: #E54E27;
-        padding: 0.3em 0.6em;
-        margin-left: 1.9em;
-        text-transform: uppercase;
-        font-size: 0.9em;
-    } 
-
-    .action:hover,
-    .action:focus,
-    .menu li a.action:hover,
-    .menu li a.action:focus{
-        color: #000;
-    }    
-
-    .cf::after {
+    .cf:after {
         content: "";
         display: table;
         clear: both;
     }
 
-    /* Intro */
-
-    #intro{
-        padding-right: 19em;
-        margin-bottom: 16px;
-    }
-    .logo img{
-        width: 64px;
-        float: left;
+    header img{
+    	margin-top: 230px;
     }
 
-    #intro h1, #intro h2, #intro p{
-        padding-left: 5.3rem;
-    }
-    h1{
-        font-size: 2.3em;
-        margin: 0.2em 0;
-    }
+    header h3{ 	
+    	font-family: 'Montserrat', Arial, sans-serif;
+    	color: #fff;
+    	font-size: 42px;
+	}	
 
-    #intro h2#sub{
-        margin-top: -18px;
-        font-size: 1em;
-    }
+	header h3 span {
+    	background-color: #5DC127;
+    	padding: 4px 12px 5px;
+    	line-height: 38px;
+	}
 
-    #intro h2{
-        font-size: 2.3em;
-        line-height: 1em;
-    }
-
-
-
-    /*++++++++++++++++Kacheln*******************/
-    .wrapper, .sponsor{
-        display: grid;
-        grid-template-columns: 50% 50%; 
-    }
-
-    .vorschau, .review{
-        padding: 0.82em;
-    }
-
-    .vorschau{
-        background-color: #EC662B;
-        color: #FFF;
-    }
-
-    .kachel h2{
-        font-size: 1.9em;
-        margin-bottom: 0;
-        line-height: 1em;
-    }
-    .kachel h3{
-        margin-top: 0;
-    }
-
-    .kachel ul{
-        padding: 0;
-    }
-
-    .kachel li{
-        list-style-type: none;
-        font-size: 1.2em;
-        /*font-weight: bold;*/
-        line-height: 1em;
-        padding-bottom: 1em;
-    }
-    .kachel .speaker{
-        font-size: 0.8em;
-    }
-
-    .schild{
-        height: 95px;
-        width: 85px;
-        background-image: url("../images/emblem.png");
-        position: relative;
-        top: 0;
-        color: #FFF;
+    #subline{
+        min-height:100px;
+        min-width: 100%;
         text-align: center;
-        padding-top: 0.4em;
-        background-repeat: no-repeat;
-    }
-
-    .second{
-        left: 352px;
-    }
-
-    .first{
-        left: 13px;
-    }
-
-    .nummer{
-        font-size: 3em;
-        text-align: center;
-        line-height: 1em;
-    }
-
-    .vorschau .action{
+        font-family: 'Montserrat', Arial, sans-serif;
+        background-color: #5DC127;
         color: #FFF;
-        background-color: #000;
-        text-decoration: none;
-        float: right;
-    }
-
-    .vorschau .action:hover{
-        color: #EC662B;
-    }
-
-    .review .action, .footer .action, .teilnehmer .action{
-        float: right;
-        text-decoration: none;
-
-    }
-    .speakerwrap{
-        display: grid;
-        grid-template-columns: 33% 33% 33%;
-        grid-gap: 10px;
-    }
-
-    .visi{
-        border: 1px solid #000;
-   }
-
-   .visitext{
-    margin: 2em;
-   }
-   .visitext h3{
-    margin-bottom: 0; 
-   }
-
-   .visitext p{
-    margin-top: 0;
-   }
-
-    .sponsor{
-        border: solid #000;
-        border-width: 1px 0;
-        min-height: 6em;
-        padding: 2em 0;
-        margin: 2em 0;
-    }
-
-    #sponsorenbild{
-        margin: 0 auto;
-    }
-
-    .kollegasline{
-        display: grid;
-        grid-template-columns: repeat(auto-fit, minmax(100px,1fr));
-        grid-gap: 20px;
-        margin-bottom: 16px;
-    }
-
-    .treffen a{
-        color: #E54E27;
-    }
-
-    #talk2{
-        border-top: 1px solid #000;
-    }
-
-    .teilnehmer{
-        margin-bottom: 2em;
-    }
-
-    .teilnehmer h2 img{
-        display: inline;
-        max-width: 50px;
-    }
-
-    .teilnehmerline{
-        display: grid;
-        grid-template-columns: repeat(auto-fit , minmax(139px, 1fr));
-        grid-gap: 12px;
-    }
-
-    footer {
-        color: #FFF;
-        background-color: #EC662B;
-        margin: 0 -2em;
-        padding: 2em;
-    }
-
-    footer h3{
-        display: inline;
-    }
-
-    footer .action{
-        margin-right: 1.9em;
-    }
-    footer .cf{
-        margin-bottom: 1em;
-    }
-
-    #colophon ul{
-        float:right;
-    }
-
-    #colophon li{
-        display: inline;
-        list-style-type: none;
-        color: #E54E27;
-    }
-
-    #colophon li:first-child:after{
-        content: " |";
-    }
-
-    #colophon li a{
-        color: #000;
-        text-decoration: none;
-    }
-
-    #colophon li a:hover{
-        color: #E54C26;
     }    
+
+    #subline h1{
+    	font-size: 2.3em;
+    	margin: 0;
+    	padding: 0.6em;
+    }
+
+    .notiz{
+        font-family: 'Montserrat', Arial, sans-serif;
+        font-size: 14px;
+        font-weight: bold;
+        letter-spacing: 0.4px;
+        color: rgba(155, 155, 155, 0.52);
+        text-align: center;
+    }
+
+    .premiumsponsoren{
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        margin: 0 10%;
+
+    }
+
+    .premiumsponsoren figure{
+        width: 250px;
+    }
+
+    .basissponsoren{
+        /*display: flex;
+        flex-wrap: wrap;
+        */
+        display: grid;
+        /*grid-template-columns: 1fr 1fr 1fr 1fr; */
+        grid-template-columns: repeat( auto-fit, minmax(250px, 1fr));
+        margin: 0 10%;
+        grid-gap: 40px;
+    }
+
+    .basissponsoren figure{
+        width: 200px;
+     }
+
+    .premiumsponsoren img, .basissponsoren img{
+        border: solid 1px rgba(151, 151, 151, 0.16);
+        border-radius: 50%;
+        width: 100%;
+    }
+
+
+    footer{
+        background-color: #5DC127;
+        padding: 2.2em 210px;
+    }
+
+    footer ul{
+        float: left;
+        margin:0;
+        padding:0;
+    }
+
+
+    footer li{
+        display: inline;
+        list-style-type: none;
+
+    }
+
+    footer li:last-child{
+        margin-left: 100px;
+    }
+
+    footer .person{
+        float:left;
+		display: grid;
+        grid-template-columns: 27% 75%;
+        margin-right: 50px;
+	}    	
+
+	footer .foto{
+        grid-column: 1;
+        grid-row: 1/3;
+    }
+
+	footer .name{
+        grid-column:2;
+        grid-row: 1;
+		font-size: 18px;
+		font-weight: bold;
+		font-style: normal;
+		font-stretch: normal;
+		line-height: 1.89;
+		letter-spacing: 1.1px;
+		color: #ffffff;
+	}
+
+    footer .sm{
+        grid-column: 2;
+        grid-row: 2;
+    }
+
+
+	footer .sm a{
+		font-size: 14px;
+		line-height: 2.43;
+		letter-spacing: 0.8px;
+		color: #fff;
+		text-decoration: none;
+    }
+
+    footer li:last-child img{
+        margin-left: 20px;
+    }
+
+    footer #impressum a{
+        font-size: 18px;
+        font-weight: bold;
+        line-height: 1.89;
+        letter-spacing: 1.1px;
+        color: #fff;
+        text-decoration: none;
+        margin-left: 20px;
+    }
+
+
 /* ==========================================================================
    Helper classes
    ========================================================================== */
@@ -502,24 +407,6 @@ textarea {
 
 .clearfix:after {
     clear: both;
-}
-
-.ppl{
-    margin: 0 10px;
-}
-
-.ppl a {
-    position: relative;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    width: 73px;
-    height: 73px;
-    float: left;
-    text-indent: -100em;
-    background-color: #fff;
-    box-sizing: border-box;
-    overflow: hidden;
 }
 
 /* ==========================================================================
