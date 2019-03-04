@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Droid+Sans:400,700');
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,700');
 /*! HTML5 Boilerplate v6.0.1 | MIT License | https://html5boilerplate.com/ */
 
 /*
@@ -96,8 +98,6 @@ textarea {
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
-    @import url('https://fonts.googleapis.com/css?family=Droid+Sans:400,700');
-    @import url('https://fonts.googleapis.com/css?family=Montserrat:400,700');
 
     html{
 		height: 101%;
@@ -115,6 +115,10 @@ textarea {
         text-align: center;
         color: #5DC127;
         text-transform: uppercase;
+    }
+
+    .reverse h2{
+        color: #FFF;
     }
 
     h3{
@@ -262,6 +266,56 @@ textarea {
         border: solid 1px rgba(151, 151, 151, 0.16);
         border-radius: 50%;
         width: 100%;
+    }
+
+
+    .tickets{ 
+        margin: 0 10%;
+    }
+
+    #agenda{
+        color: #FFF;
+        background-color: #5DC127;
+        padding: 60px 10%;
+    }
+
+    #agenda table{
+        width: 100%;
+    }
+
+    #agenda .tag{
+        font-family: 'Montserrat', Arial, sans-serif;
+        font-size: 32px;
+        font-weight: bold;
+        padding:10px;
+    }
+
+    #agenda .zeit{
+        background-color: #FFF;
+        color: #5DC127;
+        /*width: 20%;*/
+        padding:10px;
+        font-size: 18px;
+        font-weight: bold;
+        letter-spacing: 1.1px;
+        text-align: center;
+    }
+
+    #agenda .zeit:after{
+        content: url(../images/spitze.png);
+    }
+
+    #agenda .inhalt{
+        color: #FFF;
+        background-color: rgba(0, 255, 0, 0.11);
+        font-family: "Droid Sans", Arial, Helvetica, sans-serif;
+        font-size: 18px;
+        letter-spacing: 1.1px;
+        padding:10px;
+    }
+
+    #agenda .inhalt:before{
+     
     }
 
     .kontakt{
