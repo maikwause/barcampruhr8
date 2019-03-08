@@ -273,7 +273,7 @@ textarea {
         margin: 0 10%;
     }
 
-    #agenda{
+    #agenda, .reverse{
         color: #FFF;
         background-color: #5DC127;
         padding: 60px 10%;
@@ -281,6 +281,8 @@ textarea {
 
     #agenda table{
         width: 100%;
+        border-collapse: collapse;
+        border-spacing: 0;
     }
 
     #agenda .tag{
@@ -288,12 +290,13 @@ textarea {
         font-size: 32px;
         font-weight: bold;
         padding:10px;
+        width: 30%;
     }
 
     #agenda .zeit{
         background-color: #FFF;
         color: #5DC127;
-        /*width: 20%;*/
+        width: 20%;
         padding:10px;
         font-size: 18px;
         font-weight: bold;
@@ -301,8 +304,10 @@ textarea {
         text-align: center;
     }
 
-    #agenda .zeit:after{
-        content: url(../images/spitze.png);
+    #agenda .spitze{
+        margin: 0;
+        padding: 0;
+        background-color: rgba(0, 255, 0, 0.11);
     }
 
     #agenda .inhalt{
@@ -313,9 +318,10 @@ textarea {
         letter-spacing: 1.1px;
         padding:10px;
     }
+    
+    #agenda .odd{
+        height: 10px;
 
-    #agenda .inhalt:before{
-     
     }
 
     .kontakt{
