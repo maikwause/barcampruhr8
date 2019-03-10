@@ -137,7 +137,7 @@ textarea {
 
    	#page{
    		margin: 0 auto;
-    	width: 80%;
+    	max-width: 85em;
         background-color: #FFF;
 
    	}
@@ -198,6 +198,8 @@ textarea {
 
     header img{
     	margin-top: 230px;
+        max-width: 100%;
+        max-height: auto;
     }
 
     header h3{ 	
@@ -238,9 +240,9 @@ textarea {
 
     .premiumsponsoren{
         display: grid;
-        grid-template-columns: 1fr 1fr 1fr;
+        grid-template-columns: repeat( auto-fit, minmax(280px, 1fr));
         margin: 0 10%;
-
+        grid-gap: 40px;
     }
 
     .premiumsponsoren figure{
@@ -248,11 +250,7 @@ textarea {
     }
 
     .basissponsoren{
-        /*display: flex;
-        flex-wrap: wrap;
-        */
         display: grid;
-        /*grid-template-columns: 1fr 1fr 1fr 1fr; */
         grid-template-columns: repeat( auto-fit, minmax(250px, 1fr));
         margin: 0 10%;
         grid-gap: 40px;
@@ -326,7 +324,7 @@ textarea {
 
     .kontakt{
         display: grid;
-        grid-template-columns: 1fr 1fr; 
+        grid-template-columns: repeat( auto-fit, minmax(280px, 1fr)); 
         grid-gap: 20px;
         margin: 0 10%;
     }
@@ -537,6 +535,28 @@ textarea {
 
 @media only screen and (min-width: 35em) {
     /* Style adjustments for viewports that meet the condition */
+
+}
+
+@media screen and ( max-width: 760px ) {
+        header img{
+            margin-top: 0;
+            max-width: 100%;
+        }
+
+        .premiumsponsoren, .basissponoring{
+            margin: 0;
+        }
+
+}
+/*####### */
+@media screen and ( max-width: 480px ) {
+        header h3{
+            font-size: 90%;
+        } 
+        #subline{
+            font-size: 75%;
+        }
 }
 
 @media print,
